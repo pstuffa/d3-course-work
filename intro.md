@@ -64,6 +64,7 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://www.edwardtufte.com/tufte/
 - http://tributary.io/
 - http://enjalot.github.io/dot-enter/
+- http://alignedleft.com/tutorials/d3
 
 ### Good d3 Frameworks ###
 - http://nvd3.org
