@@ -1,23 +1,23 @@
 # Intro to d3 #
 
+
 ## Today's Goals ##
 - Overview of d3
-- Review basic Javascript
+- Review Javascript
 - Building with d3
-- 
+- Play with 
 
 
 ## Overview of D3 ##
 
-https://www.dashingd3js.com/why-build-with-d3js
+- https://www.dashingd3js.com/why-build-with-d3js
+- Review what d3 is
+- Where did it come from
+- Why it's so great - vectors vs 
 
+## Review Javascript ##
 
-Lesson Plans - 
-Review what d3 is
-Where did it come from
-Why it's so great - vectors vs 
-
-Go to the Javascript Console in Chrome.
+- Go to the Javascript Console in Chrome.
 Look at a mike bostock example and show how you can see each part 
 Show how d3 embeds these data objects within javascript objects 
 d3 data functions 
@@ -27,6 +27,8 @@ Reviewing javascript function
 Review mapping functions 
 Review some basic programming logic 
 
+
+## Building with d3 ##
 Setting up a python server and using Sublime Text Editor side by side 
 
 Make some paragraphs
@@ -43,7 +45,11 @@ Make them change colors
 Make them get bigger and smaller
 Make them change into squares 
 
+
+
 Let's start modifying other examples 
+
+
 
 ## Challenege ##
 Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery) and use a visualization for your dataset. Choose a visualization that will be best represent your data. 
