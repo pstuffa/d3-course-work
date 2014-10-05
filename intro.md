@@ -51,6 +51,7 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 
 ### d3 Resources ###
 - https://github.com/mbostock/d3/wiki/Gallery
+- https://github.com/mbostock/d3/wiki/API-Reference
 - http://bl.ocks.org/mbostock
 - http://bl.ocks.org/biovisualize
 - http://www.jasondavies.com/
