@@ -1,16 +1,13 @@
-### Intro to d3 ###
+# Intro to d3 #
 
-
-# Today's Goals #
+## Today's Goals ##
 - Overview of d3
+- Review basic Javascript
+- Building with d3
 - 
-- 
-
-
 
 
 ## Overview of D3 ##
-
 
 https://www.dashingd3js.com/why-build-with-d3js
 
@@ -48,12 +45,12 @@ Make them change into squares
 
 Let's start modifying other examples 
 
-Challenege - 
-Go through the mike bostock library and use a visualization for your dataset
-Choose a visualization that will be best represent your dataset 
+## Challenege ##
+Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery) and use a visualization for your dataset. Choose a visualization that will be best represent your data. 
 
 
-## Additional Resources ##
+### d3 Resources ###
+- https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/mbostock
 - http://bl.ocks.org/biovisualize
 - http://www.jasondavies.com/
@@ -61,7 +58,7 @@ Choose a visualization that will be best represent your dataset
 - http://tributary.io/
 - http://enjalot.github.io/dot-enter/
 
-## Some Good d3 Frameworks ##
+### Good d3 Frameworks ###
 - http://nvd3.org
 - https://square.github.io/cubism/
 
