@@ -2,9 +2,12 @@
 
 
 # Today's Goals #
-1.
-2.
-3.
+- Overview of d3
+- 
+- 
+
+
+
 
 ## Overview of D3 ##
 
@@ -50,17 +53,17 @@ Go through the mike bostock library and use a visualization for your dataset
 Choose a visualization that will be best represent your dataset 
 
 
-Additional Resources 
-Edward Tufte 
-http://tributary.io/
-http://enjalot.github.io/dot-enter/
-http://bl.ocks.org/mbostock
-http://bl.ocks.org/biovisualize
-http://www.jasondavies.com/
+## Additional Resources ##
+- http://bl.ocks.org/mbostock
+- http://bl.ocks.org/biovisualize
+- http://www.jasondavies.com/
+- http://www.edwardtufte.com/tufte/
+- http://tributary.io/
+- http://enjalot.github.io/dot-enter/
 
-Some d3 Frameworks - 
-http://nvd3.org
-https://square.github.io/cubism/
+## Some Good d3 Frameworks ##
+- http://nvd3.org
+- https://square.github.io/cubism/
 
 
 
