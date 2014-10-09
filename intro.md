@@ -41,6 +41,11 @@ Make Circles
 Control the X and Y coordinates
 Control the radius 
 
+Make Rects
+Control the height and width
+Control the colorscale 
+
+Transitions & Events 
 Make them change colors
 Make them get bigger and smaller
 Make them change into squares 
@@ -65,6 +70,12 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://tributary.io/
 - http://enjalot.github.io/dot-enter/
 - http://alignedleft.com/tutorials/d3
+
+### Bad Chart Examples ###
+
+
+
+
 
 ### Good d3 Frameworks ###
 - http://nvd3.org
