@@ -88,7 +88,8 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 ### d3 Examples ###
 # Clocks #
 - http://bl.ocks.org/mbostock/10685278
-- 
+- http://bl.ocks.org/clayzermk1/9142407
+- http://bl.ocks.org/mbostock/1096355
 
 # Line Charts #
 - http://bl.ocks.org/mbostock/3970883
@@ -102,7 +103,8 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/mbostock/2966094
 - 
 
-
+# Venn Diagrams #
+- http://bl.ocks.org/mbostock/1067616
 
 
 
