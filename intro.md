@@ -13,20 +13,18 @@
 - https://www.dashingd3js.com/why-build-with-d3js
 - Review what d3 is
 - Where did it come from
-- Why it's so great - vectors vs 
+- Why it's so great - vectors vs svg
 
 ## Review Javascript ##
-
+- Basic syntax
+- Functions (named vs unnamed)
+- Review mapping functions 
 - Go to the Javascript Console in Chrome.
-Look at a mike bostock example and show how you can see each part 
+(Look at a mike bostock example and show how you can see each part 
 Show how d3 embeds these data objects within javascript objects 
-d3 data functions 
-
-A little bit of how javascript works
-Reviewing javascript function
-Review mapping functions 
-Review some basic programming logic 
-
+d3 data functions)
+- Go through how data is embedded in d3
+- 
 
 ## Building with d3 ##
 Setting up a python server and using Sublime Text Editor side by side 
@@ -50,6 +48,10 @@ Make them change colors
 Make them get bigger and smaller
 Make them change into squares 
 
+Make charts
+Axes
+Transform function 
+Scales
 
 
 Let's start modifying other examples 
@@ -75,7 +77,6 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bost.ocks.org/mike/
 - http://www.informationisbeautiful.net/
 - http://jsfiddle.net/
-- http://bl.ocks.org/biovisualize
 - http://nvd3.org/examples/stackedArea.html
 - https://square.github.io/cubism/
 - http://enjalot.github.io/dot-enter/
@@ -84,8 +85,22 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/llimllib/841dd138e429bb0545df
 - http://bl.ocks.org/biovisualize/5609750
 
+### d3 Examples ###
+# Clocks #
+- http://bl.ocks.org/mbostock/10685278
+- 
+
+# Line Charts #
+- http://bl.ocks.org/mbostock/3970883
+- http://bl.ocks.org/mbostock/3969722
+- http://bl.ocks.org/mbostock/3894205
+- http://bl.ocks.org/mbostock/3884955
+- 
 
 
+# Trees # 
+- http://bl.ocks.org/mbostock/2966094
+- 
 
 
 
