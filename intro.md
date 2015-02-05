@@ -70,6 +70,26 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://tributary.io/
 - http://enjalot.github.io/dot-enter/
 - http://alignedleft.com/tutorials/d3
+- http://bl.ocks.org/pstuffa
+- http://bost.ocks.org/mike/block/
+- http://bost.ocks.org/mike/
+- http://www.informationisbeautiful.net/
+- http://jsfiddle.net/
+- http://bl.ocks.org/biovisualize
+- http://nvd3.org/examples/stackedArea.html
+- https://square.github.io/cubism/
+- http://enjalot.github.io/dot-enter/
+- https://github.com/mbostock/queue
+- http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
+- http://bl.ocks.org/llimllib/841dd138e429bb0545df
+- http://bl.ocks.org/biovisualize/5609750
+
+
+
+
+
+
+
 
 ### Bad Chart Examples ###
 
