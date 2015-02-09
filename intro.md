@@ -24,10 +24,13 @@
 - Go through how data is embedded in DOM elements
 
 ## Building with d3 ##
+
+### Part I ###
 - The DOM tree
 - Selections, enter, exit and append 
 - Setting up a python server and using Sublime Text Editor side by side 
 
+### Part II ### 
 - Make some paragraphs
 - Make some text
 - Make the text color change 
@@ -35,24 +38,29 @@
 - Use data to create the color
 - Use data to fill in the text
 
+### Part III ###
 - Make an SVG
 - Change color of SVG
 - Change size of SVG
 
+### Part IV ###
 - Make a circle
 - Make a few cricles
 - Control the X and Y coordinates
 - Control the radius 
 
+### Part V ### 
 - Make Rects
 - Control the height and width
 - Control the colorscale 
 
+### Part VI ###
 - Transitions & Events 
 - Make them change colors
 - Make them get bigger and smaller
 - Make them change into circles 
 
+### Part VII ### 
 - Making charts
 - Axes
 - Transform function 
@@ -64,13 +72,16 @@
 - Pick three or four examples they can choose from
 - Have each use a new data set to change the chart
 
-
-## Data Visualization beyond D3 ##
+## Data Visualization Beyond D3 ##
 - If there is time, let's go through some Tufte
 - What's good design?
 - What's bad design?
 - What should you look out for?
 - Bad chart examples 
+
+
+## Building Your Own Bl.ocks.org ## 
+- 
 
 # Resources #
 
