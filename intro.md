@@ -112,16 +112,13 @@
 - http://bl.ocks.org/mbostock/3969722
 - http://bl.ocks.org/mbostock/3894205
 - http://bl.ocks.org/mbostock/3884955
-- http://bl.ocks.org/llimllib/841dd138e429bb0545df (It's a table and a line!)
-- 
+- http://bl.ocks.org/llimllib/841dd138e429bb0545df
 
 ### Trees ### 
 - http://bl.ocks.org/mbostock/2966094
-- 
 
 ### Venn Diagrams ###
 - http://bl.ocks.org/mbostock/1067616
-
 
 ### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
