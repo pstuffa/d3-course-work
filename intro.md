@@ -112,6 +112,7 @@
 ### Additional d3 Tutorials ###
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
+- http://scottcheng.github.io/d3js-101/#/title
 
 ### General Data Viz ###
 - http://www.edwardtufte.com/tufte/
