@@ -1,86 +1,103 @@
 # Intro to d3 #
 
-## Today's Goals ##
+## Lesson's Goals ##
+(Guided in Powerpoint)
 - Overview of d3
 - Review Javascript
-- D3 Fundamentals
-- D3 Challenge
+- d3 Fundamentals
+- d3 Challenge
 
-## Overview of D3 ##
-
-- https://www.dashingd3js.com/why-build-with-d3js
+## Overview of d3 ##
+(Guided in Powerpoint)
 - Review what d3 is
 - Where did it come from
 - Why it's so great - vectors vs svg
 
 ## Review Javascript ##
+(Move to Javascript Console)
+- Javascript console
 - Basic syntax
 - Functions (named vs unnamed)
 - Review mapping functions 
-- Go to the Javascript Console in Chrome.
-(Look at a mike bostock example and show how you can see each part 
-Show how d3 embeds these data objects within javascript objects 
-d3 data functions)
-- Go through how data is embedded in d3
-- 
+- Data in javascript
+- Working within HTML and CSS
+- Go through how data is embedded in DOM elements
 
 ## Building with d3 ##
-Setting up a python server and using Sublime Text Editor side by side 
+- The DOM tree
+- Selections, enter, exit and append 
+- Setting up a python server and using Sublime Text Editor side by side 
 
-Make some paragraphs
-Make some text
-Make the text color change 
+- Make some paragraphs
+- Make some text
+- Make the text color change 
+- Use data to create the size
+- Use data to create the color
+- Use data to fill in the text
 
-Create an SVG
+- Make an SVG
+- Change color of SVG
+- Change size of SVG
 
-Make Circles
-Control the X and Y coordinates
-Control the radius 
+- Make a circle
+- Make a few cricles
+- Control the X and Y coordinates
+- Control the radius 
 
-Make Rects
-Control the height and width
-Control the colorscale 
+- Make Rects
+- Control the height and width
+- Control the colorscale 
 
-Transitions & Events 
-Make them change colors
-Make them get bigger and smaller
-Make them change into squares 
+- Transitions & Events 
+- Make them change colors
+- Make them get bigger and smaller
+- Make them change into circles 
 
-Make charts
-Axes
-Transform function 
-Scales
-
-
-Let's start modifying other examples 
-
+- Making charts
+- Axes
+- Transform function 
+- Scales
+- Ticks
+- Labels
 
 ## Challenege ##
-Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery) and use a visualization for your dataset. Choose a visualization that will be best represent your data. 
+- Pick three or four examples they can choose from
+- Have each use a new data set to change the chart
 
 
-### d3 Resources ###
+# Data Visualization beyond D3 #
+- If there is time, let's go through some Tufte
+- What's good design?
+- What's bad design?
+- What should you look out for?
+- Bad chart examples 
+
+
+### Resources ###
 - https://github.com/mbostock/d3/wiki/Gallery
 - https://github.com/mbostock/d3/wiki/API-Reference
 - http://bl.ocks.org/mbostock
-- http://bl.ocks.org/biovisualize
-- http://www.jasondavies.com/
-- http://www.edwardtufte.com/tufte/
-- http://tributary.io/
-- http://enjalot.github.io/dot-enter/
-- http://alignedleft.com/tutorials/d3
-- http://bl.ocks.org/pstuffa
 - http://bost.ocks.org/mike/block/
 - http://bost.ocks.org/mike/
-- http://www.informationisbeautiful.net/
-- http://jsfiddle.net/
-- http://nvd3.org/examples/stackedArea.html
-- https://square.github.io/cubism/
+- http://www.jasondavies.com/
+- http://www.edwardtufte.com/tufte/
+
+# d3 Playgrounds # 
+- http://tributary.io/
 - http://enjalot.github.io/dot-enter/
+- http://jsfiddle.net/
+
+# d3 Frameworks / Add-ins #
+- http://nvd3.org/
+- https://square.github.io/cubism/
 - https://github.com/mbostock/queue
+- http://hughsk.io/colony/
+
+# Additional d3 Tutorials #
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
-- http://bl.ocks.org/llimllib/841dd138e429bb0545df
-- http://bl.ocks.org/biovisualize/5609750
+- http://alignedleft.com/tutorials/d3
+
+
 
 ### d3 Examples ###
 # Clocks #
@@ -93,7 +110,7 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/mbostock/3969722
 - http://bl.ocks.org/mbostock/3894205
 - http://bl.ocks.org/mbostock/3884955
-- 
+- http://bl.ocks.org/llimllib/841dd138e429bb0545df (It's a table and a line!)
 
 # Trees # 
 - http://bl.ocks.org/mbostock/2966094
@@ -107,7 +124,7 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/biovisualize/5609750
 
 
-### Bad Chart Examples ###
+
 
 
 
