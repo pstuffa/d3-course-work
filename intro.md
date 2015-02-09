@@ -65,62 +65,64 @@
 - Have each use a new data set to change the chart
 
 
-# Data Visualization beyond D3 #
+## Data Visualization beyond D3 ##
 - If there is time, let's go through some Tufte
 - What's good design?
 - What's bad design?
 - What should you look out for?
 - Bad chart examples 
 
+# Resources #
 
-### Resources ###
+### d3 Basics / Libraries ###
 - https://github.com/mbostock/d3/wiki/Gallery
 - https://github.com/mbostock/d3/wiki/API-Reference
 - http://bl.ocks.org/mbostock
 - http://bost.ocks.org/mike/block/
 - http://bost.ocks.org/mike/
 - http://www.jasondavies.com/
-- http://www.edwardtufte.com/tufte/
 
-# d3 Playgrounds # 
+### d3 Playgrounds ###
 - http://tributary.io/
 - http://enjalot.github.io/dot-enter/
 - http://jsfiddle.net/
 
-# d3 Frameworks / Add-ins #
+### d3 Frameworks / Add-ins ###
 - http://nvd3.org/
 - https://square.github.io/cubism/
 - https://github.com/mbostock/queue
 - http://hughsk.io/colony/
 
-# Additional d3 Tutorials #
+### Additional d3 Tutorials ###
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
 
+### General Data Viz ###
+- http://www.edwardtufte.com/tufte/
 
 
-### d3 Examples ###
-# Clocks #
+# d3 Examples #
+### Clocks ###
 - http://bl.ocks.org/mbostock/10685278
 - http://bl.ocks.org/clayzermk1/9142407
 - http://bl.ocks.org/mbostock/1096355
 
-# Line Charts #
+### Line Charts ###
 - http://bl.ocks.org/mbostock/3970883
 - http://bl.ocks.org/mbostock/3969722
 - http://bl.ocks.org/mbostock/3894205
 - http://bl.ocks.org/mbostock/3884955
 - http://bl.ocks.org/llimllib/841dd138e429bb0545df (It's a table and a line!)
 
-# Trees # 
+### Trees ### 
 - http://bl.ocks.org/mbostock/2966094
 - 
 
-# Venn Diagrams #
+### Venn Diagrams ###
 - http://bl.ocks.org/mbostock/1067616
 
 
-# Timelines # 
+### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
 
 
