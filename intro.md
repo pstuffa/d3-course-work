@@ -114,7 +114,7 @@
 - http://bl.ocks.org/mbostock/3884955
 - http://bl.ocks.org/llimllib/841dd138e429bb0545df
 
-### Trees ### 
+### Trees ###
 - http://bl.ocks.org/mbostock/2966094
 
 ### Venn Diagrams ###
