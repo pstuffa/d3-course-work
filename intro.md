@@ -14,6 +14,9 @@
 - Why it's so great - vectors vs svg
 
 ## Review Javascript ##
+- What HTML is
+- What CSS is
+- What Javascript is
 (Move to Javascript Console)
 - Javascript console
 - Basic syntax
@@ -112,6 +115,7 @@
 ### Additional d3 Tutorials ###
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
+- http://christopheviau.com/d3_tutorial/
 - http://scottcheng.github.io/d3js-101/#/title
 
 ### General Data Viz ###
@@ -119,6 +123,9 @@
 
 
 # d3 Examples #
+
+Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
+
 ### Clocks ###
 - http://bl.ocks.org/mbostock/10685278
 - http://bl.ocks.org/clayzermk1/9142407
