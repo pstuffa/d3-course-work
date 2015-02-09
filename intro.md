@@ -80,8 +80,13 @@
 - Bad chart examples 
 
 
-## Building Your Own Bl.ocks.org ## 
-- 
+## Building Your Own Bl.ocks.org ##
+- Walkthrough of http://bost.ocks.org/mike/block/
+- Got git?
+- Gitsup
+- make folder for each viz
+- has html, data and thumbnail.png (must be right size)
+- Editing the titles
 
 # Resources #
 
