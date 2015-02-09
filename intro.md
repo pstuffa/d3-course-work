@@ -1,12 +1,10 @@
 # Intro to d3 #
 
-
 ## Today's Goals ##
 - Overview of d3
 - Review Javascript
-- Building with d3
-- Play with 
-
+- D3 Fundamentals
+- D3 Challenge
 
 ## Overview of D3 ##
 
@@ -57,7 +55,6 @@ Scales
 Let's start modifying other examples 
 
 
-
 ## Challenege ##
 Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery) and use a visualization for your dataset. Choose a visualization that will be best represent your data. 
 
@@ -98,7 +95,6 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/mbostock/3884955
 - 
 
-
 # Trees # 
 - http://bl.ocks.org/mbostock/2966094
 - 
@@ -107,16 +103,12 @@ Go through the mike bostock library (https://github.com/mbostock/d3/wiki/Gallery
 - http://bl.ocks.org/mbostock/1067616
 
 
+# Timelines # 
+- http://bl.ocks.org/biovisualize/5609750
+
 
 ### Bad Chart Examples ###
 
-
-
-
-
-### Good d3 Frameworks ###
-- http://nvd3.org
-- https://square.github.io/cubism/
 
 
 
