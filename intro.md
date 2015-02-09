@@ -49,7 +49,7 @@
 - Control the X and Y coordinates
 - Control the radius 
 
-### Part V ### 
+### Part V ###
 - Make Rects
 - Control the height and width
 - Control the colorscale 
@@ -60,7 +60,7 @@
 - Make them get bigger and smaller
 - Make them change into circles 
 
-### Part VII ### 
+### Part VII ###
 - Making charts
 - Axes
 - Transform function 
