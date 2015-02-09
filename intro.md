@@ -1,19 +1,19 @@
-# Intro to d3 #
+# Intro to D3 #
 
 ## Lesson's Goals ##
 (Guided in Powerpoint)
-- Overview of d3
+- Overview of D3
 - Review Javascript
-- d3 Fundamentals
-- d3 Challenge
+- D3 Fundamentals
+- D3 Challenge
 
-## Overview of d3 ##
+## Overview of D3 ##
 (Guided in Powerpoint)
-- Review what d3 is
+- Review what D3 is
 - Where did it come from
 - Why it's so great - vectors vs svg
 
-## Review Javascript ##
+## Getting Started in D3 ##
 - What HTML is
 - What CSS is
 - What Javascript is
@@ -26,7 +26,7 @@
 - Working within HTML and CSS
 - Go through how data is embedded in DOM elements
 
-## Building with d3 ##
+## Building in D3 ##
 
 ### Part I ###
 - The DOM tree
@@ -93,7 +93,7 @@
 
 # Resources #
 
-### d3 Basics / Libraries ###
+### D3 Basics / Libraries ###
 - https://github.com/mbostock/d3/wiki/Gallery
 - https://github.com/mbostock/d3/wiki/API-Reference
 - http://bl.ocks.org/mbostock
@@ -101,18 +101,18 @@
 - http://bost.ocks.org/mike/
 - http://www.jasondavies.com/
 
-### d3 Playgrounds ###
+### D3 Playgrounds ###
 - http://tributary.io/
 - http://enjalot.github.io/dot-enter/
 - http://jsfiddle.net/
 
-### d3 Frameworks / Add-ins ###
+### D3 Frameworks / Add-ins ###
 - http://nvd3.org/
 - https://square.github.io/cubism/
 - https://github.com/mbostock/queue
 - http://hughsk.io/colony/
 
-### Additional d3 Tutorials ###
+### Additional D3 Tutorials ###
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
 - http://christopheviau.com/d3_tutorial/
