@@ -30,7 +30,7 @@
 - Selections, enter, exit and append 
 - Setting up a python server and using Sublime Text Editor side by side 
 
-### Part II ### 
+### Part II ###
 - Make some paragraphs
 - Make some text
 - Make the text color change 
