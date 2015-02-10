@@ -30,3 +30,12 @@ data.map( function(x) { return x * 2;} );
 ```
 *This will be very important in D3, as we will often make functions on the fly. The difference in D3 is that we won't necessarily nest the function within a map() function.*
 
+
+You can also filter in functions
+```
+var data = [1,2,3,4,5]
+
+data.map( function(x) { return x * 2 == 2;} );
+```
+
+Or nest functions within function
