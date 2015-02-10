@@ -36,6 +36,16 @@ You can also filter in functions
 var data = [1,2,3,4,5]
 
 data.map( function(x) { return x * 2 == 2;} );
-```
 
-Or nest functions within function
+
+or 
+
+var data = [1,2,3,4,5]
+
+data.map( function(x) { if(x * 2 == 2) {return x;}} );
+```
+*Notice the difference in what those two return - the latter is what is more commonly used in D3*
+
+
+
+
