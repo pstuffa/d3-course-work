@@ -12,6 +12,8 @@
 ### Variables ###
 Like python, we can set integers to variable and treat them like integers. The difference in javascript is we have to explicitly state that they are variables, or "var." Arrays can also be variables, like var Data = [1,2,3,4,5];
 
+Let's make a few:
+
 ### Functions ###
 We can use functions to modify our variables, and there are primarily two types of functions:
 
