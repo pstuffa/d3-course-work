@@ -28,5 +28,5 @@ var data = [1,2,3,4,5]
 
 data.map( function(x) { return x * 2;} );
 ```
-
+*This will be very important in D3, as we will often make functions on the fly*
 
