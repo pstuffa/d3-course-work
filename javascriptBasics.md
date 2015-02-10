@@ -15,10 +15,11 @@ Like python, we can set integers to variable and treat them like integers. The d
 ### Functions ###
 We can use functions to modify our variables, and there are primarily two types of functions:
 1. named funcitons  
-  - function myFunction(x) { return x * 2; } 
-  - enter value into myFunction()
+ - function myFunction(x) { return x * 2; } 
+ - enter value into myFunction()
+  
 2. unnamed //  (function(x) { return x * 2; })(2);
-  - unnamed functions are aka IIFE (Immediately Invoked Function Expression)
-  - unnamed functions are most commonly used as part of a chain
-  - 
+ - unnamed functions are aka IIFE (Immediately Invoked Function Expression)
+ - unnamed functions are most commonly used as part of a chain
+ - 
   
