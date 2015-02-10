@@ -15,7 +15,7 @@ Like python, we can set integers to variable and treat them like integers. The d
 ### Functions ###
 We can use functions to modify our variables, and there are primarily two types of functions:
 
-Named Funcitons  
+####Named Funcitons#### 
  - function myFunction(x) { return x * 2; } 
  - Enter value into myFunction()
   
