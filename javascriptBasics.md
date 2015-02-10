@@ -16,5 +16,5 @@
 
 ### Functions ###
 - We can use functions to modify our variables, and there are primarily two types of functions:
-- - named funcitons // function myFunction(x) { return x * 2; } 
-- - unnamed //  function(x) { return x * 2; } 
+ - named funcitons // function myFunction(x) { return x * 2; } 
+ - unnamed //  function(x) { return x * 2; } 
