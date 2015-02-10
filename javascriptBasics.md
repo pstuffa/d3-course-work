@@ -16,5 +16,11 @@
 
 ### Functions ###
 - We can use functions to modify our variables, and there are primarily two types of functions:
- - named funcitons // function myFunction(x) { return x * 2; } 
- - unnamed //  function(x) { return x * 2; } 
+ - named funcitons  
+  - function myFunction(x) { return x * 2; } 
+  - enter value into myFunction()
+ - unnamed //  (function(x) { return x * 2; })(2);
+  - unnamed functions are aka IIFE (Immediately Invoked Function Expression)
+  - unnamed functions are most commonly used as part of a chain
+  - 
+  
