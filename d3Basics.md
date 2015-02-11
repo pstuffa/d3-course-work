@@ -35,7 +35,7 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 </html>
 ```
 
-- <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+- src="http://d3js.org/d3.v3.min.js" charset="utf-8"
 - d3.scale, d3.select("body")?
 - function(d), function(d,i)?
 - rect, x, y?
