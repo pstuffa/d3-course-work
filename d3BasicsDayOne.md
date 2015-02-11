@@ -46,6 +46,7 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 
 *For the full list of functions and uses, go [here](https://github.com/mbostock/d3/wiki/API-Reference)* 
 
+---
 
 ### Selections ###
 D3 is **data-driven-documentation**, and what that means is we are binding data to DOM elements. To do that, we need to select DOM elements, and specify what we want to bind.
@@ -67,6 +68,7 @@ grab this       ==   <grab><this></grab>
 ```
 *For the most part, you don't want to write code that requires you to select things in 5 different ways. Most go with the simple "grabthis" and ".grabthis" approach, but it's nice to know you have options.*
 
+---
 
 Let's go back to our basic.html example and try to do the following:
 ```
@@ -79,6 +81,7 @@ Grab all the p tags
 
 For more on how selections work, check out Mike Bostock's (awesome post about it)[http://bost.ocks.org/mike/selection/], which I will admit, is a little intimidating.
 
+---
 
 Now that we can select things, let's start doing things! Try out some of the following on basic.html:
 ```
@@ -100,6 +103,7 @@ See that __data__ property? That's your data!
 
 Before we start going more into selections, let's talk about SVGs.
 
+---
 
 ### SVGs ###
 For every D3 visualization, you will need a SVG, your canvas. SVGs are html objects, so can make them in html simply by writing:
