@@ -95,10 +95,7 @@ d3.select("p").data([10])
 ```
 See that __data__ property? That's your data!
 
-
-
-### Enter, Update, and Exit ###
-
+Before we start going more into selections, let's talk about SVGs.
 
 
 ### SVGs ###
@@ -117,4 +114,10 @@ Inside that SVG is where you place your objects, which must be SVG objects. Here
 *[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happen when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.*
 
 
+
+
+
+
+
+### Enter, Update, and Exit ###
 
