@@ -54,17 +54,14 @@ For every D3 visualization, you will need a SVG, your canvas. SVGs are html obje
 <svg width="200" height="200"></svg>
 ```
 
-Inside that SVG is where you place your objects, which must be SVG objects. Here's an example:
+Inside that SVG is where you place your objects, which must be SVG objects. Here's an example you can add to your basic.html file:
 ```
 <svg width="200" height="200">
-
   <circle cx="100" cy="100" r="50" fill="red">
-
 </svg>
 ```
 
-
-[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happen when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.
+*[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happen when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.*
 
 
 
