@@ -48,7 +48,7 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 
 
 ### Selections ###
-D3 is *data-driven-documentation*, and what that means is we are binding data to DOM elements. To do that, we need to select DOM elements, and specify what we want to bind.
+D3 is **data-driven-documentation**, and what that means is we are binding data to DOM elements. To do that, we need to select DOM elements, and specify what we want to bind.
 
 There are two key functions for selections in D3:
 - select() - grabs one element (the first)
@@ -65,6 +65,20 @@ grab = this     ==   <anything grab="this">
 grab this       ==   <grab><this></grab>
 ```
 *For the most part, you don't want to write code that requires you to select things in 5 different ways. Most go with the simple "grabthis" and ".grabthis" approach, but it's nice to know you have options.*
+
+Let's go back to our basic.html example and try to do the following:
+```
+Grab the first p tag
+Grab the third p tag
+Grab the fourth p tag, and change the font color
+```
+
+
+
+
+
+
+
 
 
 ### SVGs ###
