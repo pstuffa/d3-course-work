@@ -42,5 +42,6 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 - selectAll(), data(), enter(), append()?
 
 **Remember D3 is a Javascript framework, so there are all these functions specific to D3**
+
 *For the full list of functions and uses, go [here](https://github.com/mbostock/d3/wiki/API-Reference)* 
 
