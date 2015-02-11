@@ -71,6 +71,7 @@ Let's go back to our basic.html example and try to do the following:
 Grab the first p tag
 Grab the third p tag
 Grab the fourth p tag, and change the font color
+Select all the tags, and change the font color
 ```
 
 
