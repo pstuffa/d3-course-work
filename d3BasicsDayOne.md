@@ -76,10 +76,10 @@ Grab all the p tags
 
 For more on how selections work, check out Mike Bostock's (awesome post about it)[http://bost.ocks.org/mike/selection/], which I will admit, is a little intimidating.
 
-
-
-
-
+ 
+ 
+ 
+ 
 
 Now that we can select things, let's start doing things! Try out some of the following on basic.html:
 ```
