@@ -2,7 +2,7 @@
 
 The goal for this lesson will be for you to understand how goal.html works. Let's take a look at the code and see what we do understand aready.
 
-```
+```javascript
 <!DOCTYPE html>
 <html>
   <head>
