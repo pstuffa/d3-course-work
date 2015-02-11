@@ -44,7 +44,23 @@ data.map( function(x) { return x * 2;} );
 *This will be very important in D3, as we will often make functions on the fly. The difference in D3 is that we won't necessarily nest the function within a map() function.*
 
 
-You can also filter in functions
+You can filter datasets with functions
+```
+var data = [1,2,3,4,5]
+
+data.filter( function(x) { return x * 2 == 2;} );
+
+
+or 
+
+
+var data = [1,2,3,4,5]
+
+data.filter( function(x) { if(x * 2 == 2) {return x;}} );
+```
+
+
+You can also map datasets with functions
 ```
 var data = [1,2,3,4,5]
 
@@ -66,10 +82,12 @@ Let's make a few functions:
 ```
 1. Make a function that adds 3 to any input
 2. Make a function that divides by three to any input
-3. Make a function that divides by the denominator variable to any input
-4. Make a function that determines if numbers are even
-5. Make a function that determines if numbers are odd
+3. Make a function that determines if numbers in a dataset are less than 4
+4. Make a function that determines if numbers in a dataset are even
+5. Make a function that determines if numbers in a dataset are odd
 ```
+*Hint - in Javascript, the modular operator (%) returns division remainder.*
+
 
 
 
