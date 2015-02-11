@@ -1,6 +1,6 @@
 # D3 Fundamentals #
 
-The goal for this lesson will be for you to understand how goal.html works. Let's take a look at the code and see what we do understand aready.
+The goal for this lesson will be for you to understand how goal.html works. Let's take a look at the code and see what we understand already.
 
 ```javascript
 <!DOCTYPE html>
@@ -45,6 +45,25 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 **Remember D3 is a Javascript framework, so there are all these functions specific to D3**
 
 *For the full list of functions and uses, go [here](https://github.com/mbostock/d3/wiki/API-Reference)* 
+
+
+### Selections ###
+D3 is *data-driven-documentation*, and what that means is we are binding data to DOM elements. To do that, we need to select DOM elements, and specify what we want to bind.
+
+There are two key functions for selections in D3:
+- select() - grabs one element (the first)
+- selectAll() - grabs all matching elements
+
+[Go here for DOM Tree example.](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg)
+
+D3 selections are based on CSS selectors, so you can use any of the following to select your d3 elements:
+- #grabthis == <anything id="grabthis">
+- .grabthis == <anything class="grabthis">
+- grabthis == <grabthis>
+- grab = this <anything grab="this">
+- grab this <grab><this></grab>
+
+
 
 
 
