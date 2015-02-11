@@ -30,11 +30,15 @@ Let's make a few variables:
 We can use functions to modify our variables, and there are primarily two types of functions:
 
 #### Named Funcitons ####
- - function myFunction(x) { return x * 2; } 
- - Enter value into myFunction()
+```javascript
+function myFunction(x) { return x * 2; } 
+```
+Try entering a value into myFunction()
   
 #### Unnamed Functions ####
-- (function(x) { return x * 2; })(2);
+```javascript
+(function(x) { return x * 2; })(2);
+```
 - Unnamed functions are aka IIFE (Immediately Invoked Function Expression)
 - Unnamed functions are most commonly used as part of a chain, so something like:
 
