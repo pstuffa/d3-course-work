@@ -70,14 +70,25 @@ Let's go back to our basic.html example and try to do the following:
 ```
 Grab the first p tag
 Grab the third p tag
-Grab the fourth p tag, and change the font color
-Select all the tags, and change the font color
+Grab all the p tags
+```
+*For each of these examples, look at what you got in the javascript console and figure out why it's the right selection.*
+
+For more on how selections work, check out Mike Bostock's (awesome post about it)[http://bost.ocks.org/mike/selection/], which I will admit, is a little intimidating.
+
+
+Now that we can select things, let's start doing things! Try out some of the following on basic.html:
+```
+d3.select("p").style("color","red");
+d3.selectAll("p").style("font-size","20px");
+d3.select("#da_id").style("background-color","green");
+
 ```
 
-
-
-
-
+While that's fun, what we really want to learn is how to bind **data**. Type in the following and check out the result:
+```
+d3.select("p");
+```
 
 
 
