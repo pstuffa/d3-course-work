@@ -17,10 +17,10 @@ Like python, we can set integers to variable and treat them like integers. The d
 Let's make a few variables:
 
 ```
-make a variable called numerator, equal to 99
-make a variable called denominator, equal to 100
-make a variable called percent, equal to the numerator divided by the denominator
-make a dataset called dataset, equal to five random numbers 
+1. Make a variable called numerator, equal to 99
+2. Make a variable called denominator, equal to 100
+3. Make a variable called percent, equal to the numerator divided by the denominator
+4. Make a dataset called dataset, equal to five random numbers 
 ```
 
 
@@ -62,10 +62,13 @@ data.map( function(x) { if(x * 2 == 2) {return x;}} );
 
 
 Let's make a few functions: 
+
 ```
-
-
-
+1. Make a function that adds 3 to any input
+2. Make a function that divides by three to any input
+3. Make a function that divides by the denominator variable to any input
+4. Make a function that determines if numbers are even
+5. Make a function that determines if numbers are odd
 ```
 
 
