@@ -40,6 +40,7 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 - function(d), function(d,i)?
 - rect, x, y?
 - selectAll(), data(), enter(), append()?
+- svg a variable?
 
 **Remember D3 is a Javascript framework, so there are all these functions specific to D3**
 
@@ -47,6 +48,13 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 
 
 
+### SVGs ###
+For every D3 visualization, you will need a SVG, your canvas. SVGs are html objects, so can make them in html simply by writing:
+```
+<svg width="200" height="200"></svg>
+```
+
+Inside that SVG is where you place your objects, which must be SVG objects. [Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happen when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.
 
 
-[Here](http://www.w3schools.com/svg/default.asp) is the link for all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happen when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.
+
