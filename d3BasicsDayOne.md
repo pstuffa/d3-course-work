@@ -128,17 +128,7 @@ Make the circle tiny
 Make the circle disappear!
 ```
 
-
-
-
-
-
-
-*[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happen when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.*
-
-
-
-
+*[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happens when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.*
 
 
 
