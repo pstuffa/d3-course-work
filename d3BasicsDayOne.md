@@ -56,6 +56,7 @@ There are two key functions for selections in D3:
 
 ![DOM Tree Example](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg "DOM Tree Example")
 
+
 D3 selections are based on CSS selectors, so you can use any of the following to select your d3 elements:
 ```
 #grabthis       ==   <anything id="grabthis">
@@ -66,6 +67,7 @@ grab this       ==   <grab><this></grab>
 ```
 *For the most part, you don't want to write code that requires you to select things in 5 different ways. Most go with the simple "grabthis" and ".grabthis" approach, but it's nice to know you have options.*
 
+
 Let's go back to our basic.html example and try to do the following:
 ```
 Grab the first p tag
@@ -74,12 +76,9 @@ Grab all the p tags
 ```
 *For each of these examples, look at what you got in the javascript console and figure out why it's the right selection.*
 
+
 For more on how selections work, check out Mike Bostock's (awesome post about it)[http://bost.ocks.org/mike/selection/], which I will admit, is a little intimidating.
 
- 
- 
- 
- 
 
 Now that we can select things, let's start doing things! Try out some of the following on basic.html:
 ```
