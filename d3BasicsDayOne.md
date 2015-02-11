@@ -89,7 +89,15 @@ While that's fun, what we really want to learn is how to bind **data**. Type in 
 ```
 d3.select("p");
 ```
+Now enter this and see what changed:
+```
+d3.select("p").data([10])
+```
+See that __data__ property? That's your data!
 
+
+
+### Enter, Update, and Exit ###
 
 
 
