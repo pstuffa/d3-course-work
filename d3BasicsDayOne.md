@@ -54,7 +54,7 @@ There are two key functions for selections in D3:
 - select() - grabs one element (the first)
 - selectAll() - grabs all matching elements
 
-[Go here for DOM Tree example.](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg)
+![DOM Tree Example](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg "DOM Tree Example")
 
 D3 selections are based on CSS selectors, so you can use any of the following to select your d3 elements:
 ```
@@ -93,7 +93,7 @@ Now enter this and see what changed:
 ```
 d3.select("p").data([10])
 ```
-See that "__data__" property? That's your data!
+See that __data__ property? That's your data!
 
 
 
