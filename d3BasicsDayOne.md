@@ -88,7 +88,6 @@ Now that we can select things, let's start doing things! Try out some of the fol
 d3.select("p").style("color","red");
 d3.selectAll("p").style("font-size","20px");
 d3.select("#da_id").style("background-color","green");
-
 ```
 
 While that's fun, what we really want to learn is how to bind **data**. Type in the following and check out the result:
@@ -129,8 +128,7 @@ Make the circle disappear!
 ```
 
 *[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happens when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.*
-
-
+---
 
 ### Enter, Update, and Exit ###
 
