@@ -1,6 +1,6 @@
 # D3 Fundamentals #
 
-The goal for this lesson will be for you to understand how the goal.html visualization works. Let's take a look at the code and see what we do understand aready.
+The goal for this lesson will be for you to understand how goal.html works. Let's take a look at the code and see what we do understand aready.
 
 ```
 <!DOCTYPE html>
@@ -34,3 +34,13 @@ The goal for this lesson will be for you to understand how the goal.html visuali
   </body>
 </html>
 ```
+
+- <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+- d3.scale, d3.select("body")?
+- function(d), function(d,i)?
+- rect, x, y?
+- selectAll(), data(), enter(), append()?
+
+**Remember D3 is a Javascript framework, so there are all these functions specific to D3**
+*For the full list of functions and uses, go [here](https://github.com/mbostock/d3/wiki/API-Reference)* 
+
