@@ -36,7 +36,7 @@ We can use functions to modify our variables, and there are primarily two types 
 - Unnamed functions are aka IIFE (Immediately Invoked Function Expression)
 - Unnamed functions are most commonly used as part of a chain, so something like:
 
-```
+```javascript
 var data = [1,2,3,4,5]
 
 data.map( function(x) { return x * 2;} );
@@ -45,7 +45,7 @@ data.map( function(x) { return x * 2;} );
 
 
 You can filter datasets with functions
-```
+```javascript
 var data = [1,2,3,4,5]
 
 data.filter( function(x) { return x * 2 == 2;} );
@@ -61,7 +61,7 @@ data.filter( function(x) { if(x * 2 == 2) {return x;}} );
 
 
 You can also map datasets with functions
-```
+```javascript
 var data = [1,2,3,4,5]
 
 data.map( function(x) { return x * 2 == 2;} );
