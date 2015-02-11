@@ -113,6 +113,7 @@
 - http://hughsk.io/colony/
 
 ### Additional D3 Tutorials ###
+- https://www.dashingd3js.com/
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
 - http://christopheviau.com/d3_tutorial/
