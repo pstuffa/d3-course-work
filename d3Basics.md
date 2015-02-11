@@ -57,14 +57,14 @@ There are two key functions for selections in D3:
 [Go here for DOM Tree example.](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg)
 
 D3 selections are based on CSS selectors, so you can use any of the following to select your d3 elements:
-- #grabthis == <anything id="grabthis">
-- .grabthis == <anything class="grabthis">
-- grabthis == <grabthis>
-- grab = this <anything grab="this">
-- grab this <grab><this></grab>
-
-
-
+```
+#grabthis       ==   <anything id="grabthis">
+.grabthis       ==   <anything class="grabthis">
+grabthis        ==   <grabthis>
+grab = this     ==   <anything grab="this">
+grab this       ==   <grab><this></grab>
+```
+*For the most part, you don't want to write code that requires you to select things in 5 different ways. Most go with the simple "grabthis" and ".grabthis" approach, but it's nice to know you have options.*
 
 
 ### SVGs ###
