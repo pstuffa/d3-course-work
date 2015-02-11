@@ -93,7 +93,7 @@ Now enter this and see what changed:
 ```
 d3.select("p").data([10])
 ```
-See that __data__ property? That's your data!
+See that "__data__" property? That's your data!
 
 
 
