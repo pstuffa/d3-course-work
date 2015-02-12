@@ -133,3 +133,13 @@ Make the circle disappear!
 
 ### Enter, Update, and Exit ###
 
+![D3 Venn](https://s3.amazonaws.com/assets-paperboy/adunkman/techtime-understanding-d3-selection-operations-venn.png "D3 Venn")
+
+
+
+- Enter : used to add / create objects with bounded data
+- Update : used to update existing objects with bounded data 
+- Exit : used to update existing objects and remove objects when there is no element to match to data
+
+*If you wanted to remove all objects, you simple use the .remove() function*
+
