@@ -113,6 +113,8 @@
 - http://hughsk.io/colony/
 
 ### Additional D3 Tutorials ###
+- http://bost.ocks.org/mike/circles/
+- http://bost.ocks.org/mike/join/
 - https://www.dashingd3js.com/
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
@@ -139,6 +141,9 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bl.ocks.org/mbostock/3884955
 - http://bl.ocks.org/llimllib/841dd138e429bb0545df
 
+### Bar Charts ###
+- http://bl.ocks.org/mbostock/4062085
+
 ### Trees ###
 - http://bl.ocks.org/mbostock/2966094
 
@@ -148,7 +153,8 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 ### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
 
-
+### Tables ### 
+- http://bost.ocks.org/mike/miserables/
 
 
 
