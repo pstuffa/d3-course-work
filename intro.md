@@ -115,6 +115,7 @@
 ### Additional D3 Tutorials ###
 - http://bost.ocks.org/mike/circles/
 - http://bost.ocks.org/mike/join/
+- http://bost.ocks.org/mike/d3/workshop/#0
 - https://www.dashingd3js.com/
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
