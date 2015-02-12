@@ -41,6 +41,7 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 - rect, x, y?
 - selectAll(), data(), enter(), append()?
 - svg a variable?
+- Coordinate space inverted?
 
 **Remember D3 is a Javascript framework, so there are all these functions specific to D3**
 
@@ -135,11 +136,11 @@ Make the circle disappear!
 
 ![D3 Venn](https://s3.amazonaws.com/assets-paperboy/adunkman/techtime-understanding-d3-selection-operations-venn.png "D3 Venn")
 
-
-
 - Enter : used to add / create objects with bounded data
 - Update : used to update existing objects with bounded data 
 - Exit : used to update existing objects and remove objects when there is no element to match to data
 
-*If you wanted to remove all objects, you simple use the .remove() function*
+*If you wanted to remove all objects, you use the .remove() function*
+
+
 
