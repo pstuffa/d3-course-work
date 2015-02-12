@@ -155,18 +155,32 @@ Select the circle and look at the data property to confirm it's updated.
 
 ---
 
-Now, let's use a larger dataset
+Now, let's use a larger dataset, and try the enter method.
 
 ```javascript
 // Define new dataset
 var dataset = [10,20,30]
-//Select the circle, and now 
+//Select the circle, use the enter() function and append circles to match the data
+d3.select("svg").selectAll("circle")
+.data(dataset)
+.enter().append("circle");
+```
+Where are the circles?
+
+```javascript
+d3.selectAll("circle")
+.attr("fill", function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+    })
+.attr("r", function(d) { return d; })
+.attr("cx", function(d,i) { return (i+1)*50; } )
+.attr("cy", function(d,i) { return (i+1)*50; } );
 ```
 
+What's this function(d)?
 
-
-
-
+---
 
 
 
