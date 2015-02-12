@@ -145,7 +145,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 
 ### Bar Charts ###
 - http://bl.ocks.org/mbostock/4062085
-- 
+- http://bl.ocks.org/Caged/6476579
 
 ### Hexagonal Bining ###
 - http://bl.ocks.org/mbostock/4248145
@@ -159,7 +159,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 ### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
 
-### Tables ### 
+### Tables ###
 - http://bost.ocks.org/mike/miserables/
 
 
