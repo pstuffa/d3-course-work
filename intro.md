@@ -145,6 +145,10 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 
 ### Bar Charts ###
 - http://bl.ocks.org/mbostock/4062085
+- 
+
+### Hexagonal Bining ###
+- http://bl.ocks.org/mbostock/4248145
 
 ### Trees ###
 - http://bl.ocks.org/mbostock/2966094
