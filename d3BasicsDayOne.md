@@ -143,4 +143,15 @@ Make the circle disappear!
 *If you wanted to remove all objects, you use the .remove() function*
 
 
+*Note the difficult in bar graphs because of the inverted shapes
+
+Inverted Coordinate Plane
+
+Axes 
+
+Transform functions 
+
+Events
+
+Transitions 
 
