@@ -139,9 +139,39 @@ Make the circle disappear!
 - Enter : used to add / create objects with bounded data
 - Update : used to update existing objects with bounded data 
 - Exit : used to update existing objects and remove objects when there is no element to match to data
-
 *If you wanted to remove all objects, you use the .remove() function*
 
+
+Let's go back to basic.html, and try binding data to our cicle using these methods.
+
+```javascript
+// Define your data 
+var dataset = [10]
+// Select the cirlce, and update it with data
+d3.select("svg").selectAll("circle")
+.data(dataset);
+```
+Select the circle and look at the data property to confirm it's updated.
+
+---
+
+Now, let's use a larger dataset
+
+```javascript
+// Define new dataset
+var dataset = [10,20,30]
+//Select the circle, and now 
+```
+
+
+
+
+
+
+
+
+--- 
+Next up..
 
 *Note the difficult in bar graphs because of the inverted shapes
 
