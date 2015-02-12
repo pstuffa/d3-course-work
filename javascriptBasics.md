@@ -71,7 +71,7 @@ You can also map datasets with functions
 ```javascript
 var data = [1,2,3,4,5]
 
-data.map( function(x) { return x * 2 == 2;} );
+data.map( function(x) { return x * 2 == 2; } );
 
 
 or 
@@ -79,7 +79,7 @@ or
 
 var data = [1,2,3,4,5]
 
-data.map( function(x) { if(x * 2 == 2) {return x;}} );
+data.map( function(x) { if(x * 2 == 2) { return x; } } );
 ```
 *Notice the difference in what those two return - the latter is what is more commonly used in D3*
 
