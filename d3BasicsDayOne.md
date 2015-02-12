@@ -84,18 +84,18 @@ For more on how selections work, check out Mike Bostock's (awesome post about it
 ---
 
 Now that we can select things, let's start doing things! Try out some of the following on basic.html:
-```
+```javascript
 d3.select("p").style("color","red");
 d3.selectAll("p").style("font-size","20px");
 d3.select("#da_id").style("background-color","green");
 ```
 
 While that's fun, what we really want to learn is how to bind **data**. Type in the following and check out the result:
-```
+```javascript
 d3.select("p");
 ```
 Now enter this and see what changed:
-```
+```javascript
 d3.select("p").data([10])
 ```
 See that __data__ property? That's your data!
@@ -106,12 +106,12 @@ Before we start going more into selections, let's talk about SVGs.
 
 ### SVGs ###
 For every D3 visualization, you will need a SVG, your canvas. SVGs are html objects, so can make them in html simply by writing:
-```
+```javascript
 <svg width="200" height="200"></svg>
 ```
 
 Inside that SVG is where you place your objects, which must be SVG objects. Here's an example you can add to your basic.html file:
-```
+```javascript
 <svg width="200" height="200">
   <circle cx="100" cy="100" r="50" fill="red">
 </svg>
