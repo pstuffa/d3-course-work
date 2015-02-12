@@ -108,12 +108,12 @@ Before we start going more into selections, let's talk about SVGs.
 ### SVGs ###
 For every D3 visualization, you will need a SVG, your canvas. SVGs are html objects, so can make them in html simply by writing:
 ```javascript
-<svg width="200" height="200"></svg>
+<svg width="700" height="700"></svg>
 ```
 
 Inside that SVG is where you place your objects, which must be SVG objects. Here's an example you can add to your basic.html file:
 ```javascript
-<svg width="200" height="200">
+<svg width="700" height="700">
   <circle cx="100" cy="100" r="50" fill="red">
 </svg>
 ```
