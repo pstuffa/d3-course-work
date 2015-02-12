@@ -177,10 +177,14 @@ d3.selectAll("circle")
 .attr("cx", function(d,i) { return (i+1)*50; } )
 .attr("cy", function(d,i) { return (i+1)*50; } );
 ```
-
 What's this function(d)?
 
----
+
+
+
+
+
+
 
 
 
