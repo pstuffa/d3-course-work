@@ -170,13 +170,14 @@ d3.select("svg").selectAll("circle")
 ```javascript
 d3.selectAll("circle")
 .attr("r", function(d) { return d*2; })
-.attr("cx", function(d,i) { return Math.random()*300; } )
-.attr("cy", function(d,i) { return Math.random()*300; } )
+.attr("cx", function(d,i) { return Math.random()*400; } )
+.attr("cy", function(d,i) { return Math.random()*400; } )
 .attr("fill", function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
     })
 .style("fill-opacity", .7)
+.style("stroke-width",".2em")
 .style("stroke",function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
@@ -233,6 +234,11 @@ Now that we got a good sense of selections, SVGs and enter(), let's go back to o
 
 # Day One Challenge #
 
-1. Make an SVG with five circles, all with different colors.
-2. 
+1. Make an SVG with five circles, each with a different color, using data.
+2. Make an SVG with five circles, ordered diagonally across the SVG.
+3. Make an SVG with three circles and a rectangle.
+4. Make a triangle with yellow fill and a blue border.
+
+*Extra Credit*
+Make the triforce from Zelda
 
