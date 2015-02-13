@@ -183,7 +183,7 @@ d3.selectAll("circle")
 
 ---
 
-## Review ## 
+## Review ##
 
 Now that we got a good sense of selections, SVGs and enter(), let's go back to our first visualization and answer a few questions:
 
