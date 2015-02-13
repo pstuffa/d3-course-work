@@ -169,13 +169,18 @@ d3.select("svg").selectAll("circle")
 
 ```javascript
 d3.selectAll("circle")
+.attr("r", function(d) { return d*2; })
+.attr("cx", function(d,i) { return Math.random()*300; } )
+.attr("cy", function(d,i) { return Math.random()*300; } )
 .attr("fill", function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
     })
-.attr("r", function(d) { return d*2; })
-.attr("cx", function(d,i) { return (i+1)*100; } )
-.attr("cy", function(d,i) { return (i+1)*100; } );
+.style("fill-opacity", .7)
+.style("stroke",function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+    });    
 ```
 - What's this function(d)?
 - What's cx and cy?
