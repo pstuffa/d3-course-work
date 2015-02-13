@@ -165,7 +165,7 @@ d3.select("svg").selectAll("circle")
 .data(dataset)
 .enter().append("circle");
 ```
-Where are the circles?
+- Where are the circles?
 
 ```javascript
 d3.selectAll("circle")
@@ -177,28 +177,57 @@ d3.selectAll("circle")
 .attr("cx", function(d,i) { return (i+1)*100; } )
 .attr("cy", function(d,i) { return (i+1)*100; } );
 ```
-What's this function(d)?
+- What's this function(d)?
+- What's cx and cy?
+- What's r?
 
+---
 
+## Review ## 
 
+Now that we got a good sense of selections, SVGs and enter(), let's go back to our first visualization and answer a few questions:
 
+```javascript
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>D3 Basics</title>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  </head>
 
+  <body>
 
+    <script>
+
+    var dataset = [10, 5, 23, 12, 50, 2, 13, 8],
+        colorScale = d3.scale.category20c();
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", 600)
+        .attr("height", 600)
+
+    svg.selectAll("rect")
+      .data(dataset)
+       .enter().append("rect")
+      .attr("x", function(d,i) { return i * 40; })
+      .attr("y", 10)
+      .attr("width", 30)
+      .attr("height", function(d) { return d * 10; })
+      .style("fill", function(d,i) { return colorScale(i); });
+
+    </script>
+  </body>
+</html>
+```
+- Why is SVG a variable?
+- Why do we say selectAll before the rectangles exist?
+- What's that colorScale thing?
 
 
 --- 
-Next up..
 
-*Note the difficult in bar graphs because of the inverted shapes
+# Day One Challenge #
 
-Inverted Coordinate Plane
+1. Make an SVG with five circles, all with different colors.
+2. 
 
-Axes 
-
-Transform functions 
-
-Events
-
-Transitions 
-
-Bostock Example 
