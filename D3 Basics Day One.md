@@ -173,13 +173,11 @@ d3.selectAll("circle")
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
     })
-.attr("r", function(d) { return d; })
-.attr("cx", function(d,i) { return (i+1)*50; } )
-.attr("cy", function(d,i) { return (i+1)*50; } );
+.attr("r", function(d) { return d*2; })
+.attr("cx", function(d,i) { return (i+1)*100; } )
+.attr("cy", function(d,i) { return (i+1)*100; } );
 ```
 What's this function(d)?
-
-
 
 
 
