@@ -100,6 +100,7 @@
 - http://bost.ocks.org/mike/block/
 - http://bost.ocks.org/mike/
 - http://www.jasondavies.com/
+- http://setosa.io/#/
 
 ### D3 Playgrounds ###
 - http://tributary.io/
@@ -125,6 +126,7 @@
 
 ### General Data Viz ###
 - http://www.edwardtufte.com/tufte/
+- http://imagequilts.com/
 
 
 # d3 Examples #
@@ -163,6 +165,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bost.ocks.org/mike/miserables/
 
 
-
+### Random Cool Stuff ### 
+- http://setosa.io/blog/2014/08/03/csv-fingerprints/
 
 
