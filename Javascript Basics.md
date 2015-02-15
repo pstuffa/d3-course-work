@@ -39,7 +39,7 @@ Try entering a value into myFunction()
 ```javascript
 (function(x) { return x * 2; })(2);
 ```
-- Unnamed functions are aka IIFE (Immediately Invoked Function Expression)
+- aka IIFE (Immediately Invoked Function Expression)
 - Unnamed functions are most commonly used as part of a chain, so something like:
 
 ```javascript
