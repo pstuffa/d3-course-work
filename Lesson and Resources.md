@@ -160,6 +160,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 
 ### Scatterplot ###
 - http://bl.ocks.org/mbostock/3887118
+- http://bl.ocks.org/mbostock/4063663
 
 ### Tables ###
 - http://bost.ocks.org/mike/miserables/
