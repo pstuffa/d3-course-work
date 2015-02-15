@@ -168,7 +168,8 @@ d3.select("svg").selectAll("circle")
 - Where are the circles?
 
 ```javascript
-d3.selectAll("circle")
+d3.select("svg")
+.selectAll("circle")
 .attr("r", function(d) { return d*2; })
 .attr("cx", function(d) { return d*10; } )
 .attr("cy", function(d) { return d*10; } )
@@ -208,7 +209,8 @@ In D3, write need to say what you want. We updated the data, removed the circle,
 Simply re-enter
 
 ```javascript
-d3.selectAll("circle")
+d3.select("svg")
+.selectAll("circle")
 .attr("r", function(d) { return d*2; })
 .attr("cx", function(d) { return d*10; } )
 .attr("cy", function(d) { return d*10; } )
