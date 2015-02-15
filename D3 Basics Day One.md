@@ -80,7 +80,7 @@ Grab all the p tags
 *For each of these examples, look at what you got in the javascript console and figure out why it's the right selection.*
 
 
-For more on how selections work, check out Mike Bostock's (awesome post about it)[http://bost.ocks.org/mike/selection/], which I will admit, is a little intimidating.
+For more on how selections work, check out Mike Bostock's [awesome post about it](http://bost.ocks.org/mike/selection/), which I will admit, is a little intimidating.
 
 ---
 
