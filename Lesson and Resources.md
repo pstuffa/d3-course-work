@@ -145,6 +145,9 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bl.ocks.org/mbostock/3884955
 - http://bl.ocks.org/llimllib/841dd138e429bb0545df
 
+### Area Charts ###
+- http://bl.ocks.org/mbostock/1166403
+
 ### Bar Charts ###
 - http://bl.ocks.org/mbostock/4062085
 - http://bl.ocks.org/Caged/6476579
