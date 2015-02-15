@@ -151,6 +151,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 
 ### Hexagonal Bining ###
 - http://bl.ocks.org/mbostock/4248145
+- http://bl.ocks.org/mbostock/4248146
 
 ### Trees ###
 - http://bl.ocks.org/mbostock/2966094
@@ -160,6 +161,9 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 
 ### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
+
+### Scatterplot ###
+- http://bl.ocks.org/mbostock/3887118
 
 ### Tables ###
 - http://bost.ocks.org/mike/miserables/
