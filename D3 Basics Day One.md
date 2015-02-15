@@ -151,7 +151,7 @@ var dataset = [10]
 d3.select("svg").selectAll("circle")
 .data(dataset);
 ```
-Select the circle and look at the data property to confirm it's updated.
+Select the circle and look at the data property to confirm it's updated. That's the update method. Simply select your objects and use the data() function to update them with data. To note, you only want to do this when there's a 1 to 1 relationship between your objects and your data.
 
 ---
 
@@ -186,6 +186,44 @@ d3.selectAll("circle")
 - What's this function(d)?
 - What's cx and cy?
 - What's r?
+
+
+Ok, so now we know how to update and enter new data. Let's go over exit()
+
+Say we want to update our circles with a smaller dataset, and remove circles that don't match. Here is where we'll use the exit() function.
+
+```javascript
+// Define new dataset
+var newdataset = [20,30]
+//Select the circle, use the enter() function and append circles to match the data
+d3.select("svg").selectAll("circle")
+.data(newdataset)
+.exit().remove();
+```
+What happened? Is that right?
+
+In D3, write need to say what you want. We updated the data, removed the circle, now we need to set the attributes of those circles based on the new data.
+
+Simply re-enter
+
+```javascript
+d3.selectAll("circle")
+.attr("r", function(d) { return d*2; })
+.attr("cx", function(d,i) { return Math.random()*400; } )
+.attr("cy", function(d,i) { return Math.random()*400; } )
+.attr("fill", function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+    })
+.style("fill-opacity", .7)
+.style("stroke-width",".2em")
+.style("stroke",function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+    });    
+```
+
+That's the enter, update, and exit approach to binding data in D3.
 
 ---
 
