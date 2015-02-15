@@ -149,10 +149,6 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bl.ocks.org/mbostock/4062085
 - http://bl.ocks.org/Caged/6476579
 
-### Hexagonal Bining ###
-- http://bl.ocks.org/mbostock/4248145
-- http://bl.ocks.org/mbostock/4248146
-
 ### Trees ###
 - http://bl.ocks.org/mbostock/2966094
 
@@ -171,6 +167,10 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 ### Geomerty ### 
 - http://bl.ocks.org/mbostock/3846051
 - http://bl.ocks.org/mbostock/4237768
+- http://bl.ocks.org/mbostock/4248145
+- http://bl.ocks.org/mbostock/4248146
+- http://bl.ocks.org/mbostock/7833311
+
 
 ### Random Cool Stuff ### 
 - http://setosa.io/blog/2014/08/03/csv-fingerprints/
