@@ -187,6 +187,7 @@ d3.selectAll("circle")
 - What's cx and cy?
 - What's r?
 
+---
 
 Ok, so now we know how to update and enter new data. Let's go over exit()
 
@@ -229,7 +230,7 @@ That's the enter, update, and exit approach to binding data in D3.
 
 ## Review ##
 
-Now that we got a good sense of selections, SVGs and enter(), let's go back to our first visualization and answer a few questions:
+Now that we got a good sense of selections, SVGs and how to bind data, let's go back to our first visualization and answer a few questions:
 
 ```javascript
 <!DOCTYPE html>
