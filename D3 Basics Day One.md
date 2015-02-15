@@ -170,7 +170,7 @@ d3.select("svg").selectAll("circle")
 ```javascript
 d3.selectAll("circle")
 .attr("r", function(d) { return d*2; })
-.attr("cx", function(d) { return i*100; } )
+.attr("cx", function(d) { return d*10; } )
 .attr("cy", function(d) { return d*10; } )
 .attr("fill", function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
@@ -210,7 +210,7 @@ Simply re-enter
 ```javascript
 d3.selectAll("circle")
 .attr("r", function(d) { return d*2; })
-.attr("cx", function(d) { return i*100; } )
+.attr("cx", function(d) { return d*10; } )
 .attr("cy", function(d) { return d*10; } )
 .attr("fill", function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
