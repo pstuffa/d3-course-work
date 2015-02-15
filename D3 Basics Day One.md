@@ -277,10 +277,9 @@ Now that we got a good sense of selections, SVGs and how to bind data, let's go 
 
 1. Make an SVG with five circles, each with a different color, using data.
 2. Make an SVG with five circles, ordered diagonally across the SVG.
-2. Make an SVG with five circles, ordered randomly across the SVG. **(Hint: Math.random())**
-3. Make an SVG with three circles and a rectangle.
-4. Make a triangle with yellow fill and a blue border.
-5. 
+3. Make an SVG with five circles, ordered randomly across the SVG. **(Hint: Math.random())**
+4. Make an SVG with three circles and a rectangle.
+5. Make a triangle with yellow fill and a blue border.
 
 *Extra Credit*
 Make the triforce from Zelda
