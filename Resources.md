@@ -91,14 +91,25 @@
 
 # Resources #
 
-### D3 Basics / Libraries ###
+### D3 Basics  ###
 - https://github.com/mbostock/d3/wiki/Gallery
 - https://github.com/mbostock/d3/wiki/API-Reference
 - http://bl.ocks.org/mbostock
 - http://bost.ocks.org/mike/block/
 - http://bost.ocks.org/mike/
 - http://www.jasondavies.com/
-- http://setosa.io/#/
+
+### Additional D3 Tutorials ###
+- http://d3js.org/
+- [How to Make Your Own Block](http://bost.ocks.org/mike/block/)
+- http://bost.ocks.org/mike/circles/
+- http://bost.ocks.org/mike/join/
+- http://bost.ocks.org/mike/d3/workshop/#0
+- https://www.dashingd3js.com/
+- http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
+- http://alignedleft.com/tutorials/d3
+- http://christopheviau.com/d3_tutorial/
+- http://scottcheng.github.io/d3js-101/#/title
 
 ### D3 Playgrounds ###
 - http://tributary.io/
@@ -111,29 +122,15 @@
 - https://github.com/mbostock/queue
 - http://hughsk.io/colony/
 
-### Additional D3 Tutorials ###
-- http://d3js.org/
-- [How to Make Your Own Block](http://bost.ocks.org/mike/block/)
-- http://bost.ocks.org/mike/circles/
-- http://bost.ocks.org/mike/join/
-- http://bl.ocks.org/mbostock/1166403
-- http://bost.ocks.org/mike/d3/workshop/#0
-- https://www.dashingd3js.com/
-- http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
-- http://alignedleft.com/tutorials/d3
-- http://christopheviau.com/d3_tutorial/
-- http://scottcheng.github.io/d3js-101/#/title
-
-### General Data Viz ###
+### General Data Visualization ###
 - http://www.edwardtufte.com/tufte/
 - http://imagequilts.com/
+- http://setosa.io/#/
 
 
 # D3 Examples #
 
 [Bostocks's Show Reel](http://bl.ocks.org/mbostock/1256572)
-
-
 
 ### Line Charts ###
 - http://bl.ocks.org/mbostock/3970883
@@ -144,6 +141,8 @@
 
 ### Area Charts ###
 - http://bl.ocks.org/mbostock/1166403
+- http://bl.ocks.org/mbostock/9490313
+- http://bl.ocks.org/mbostock/3883195
 
 ### Bar Charts ###
 - http://bl.ocks.org/mbostock/4062085
@@ -179,5 +178,6 @@
 
 ### Random Cool Stuff###
 - http://setosa.io/blog/2014/08/03/csv-fingerprints/
+
 
 
