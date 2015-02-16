@@ -57,7 +57,7 @@ There are two key functions for selections in D3:
 - selectAll() - grabs all matching elements
 
 ![DOM Tree Example](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg "DOM Tree Example")
-<br />
+
 D3 selections are based on CSS selectors, so you can use any of the following to select your d3 elements:
 ```
 #grabthis       ==   <anything id="grabthis">
@@ -68,7 +68,7 @@ grab this       ==   <grab><this></grab>
 ```
 *For the most part, you don't want to write code that requires you to select things in 5 different ways. Most go with the simple "grabthis" and ".grabthis" approach, but it's nice to know you have options.*
 
-<br /><br />
+<br />
 ---
 Let's go back to our index.html example and try to do the following:
 ```
@@ -81,7 +81,7 @@ Grab all the p tags
 
 For more on how selections work, check out Mike Bostock's [awesome post about it](http://bost.ocks.org/mike/selection/), which I will admit, is a little intimidating.
 
-<br /><br />
+<br />
 ---
 Now that we can select things, let's start doing things! Try out some of the following on basic.html:
 ```javascript
@@ -102,7 +102,7 @@ See that __data__ property? That's your data!
 
 Before we start going more into selections, let's talk about SVGs.
 
-<br /><br />
+<br />
 ---
 ### SVGs ###
 For every D3 visualization, you will need a SVG, your canvas. SVGs are html objects, so can make them in html simply by writing:
@@ -128,7 +128,7 @@ Make the circle disappear!
 
 *[Go here](http://www.w3schools.com/svg/default.asp) to see all the SVG objects and what attributes they require. This is important, as often, issues with creating different SVG objects happens when one uses the wrong attributes, such as setting x and y coordinates for a cirlce, which require cx and cy coordinates.*
 
-<br /><br />
+<br />
 ---
 ### Enter, Update, and Exit ###
 
@@ -150,7 +150,7 @@ d3.select("svg").selectAll("circle")
 ```
 Select the circle and look at the data property to confirm it's updated. That's the update method. Simply select your objects and use the data() function to update them with data. To note, you only want to do this when there's a 1 to 1 relationship between your objects and your data.
 
-<br /><br />
+<br />
 ---
 Now, let's use a larger dataset, and try the enter method.
 
@@ -184,7 +184,7 @@ d3.select("svg")
 - What's this function(d)?
 - What's cx and cy?
 - What's r?
-<br /><br />
+<br />
 ---
 
 Ok, so now we know how to update and enter new data. Let's go over exit()
@@ -224,7 +224,7 @@ d3.select("svg")
 ```
 
 That's the enter, update, and exit approach to binding data in D3.
-<br /><br />
+<br />
 ---
 ## Review ##
 
@@ -266,7 +266,7 @@ Now that we got a good sense of selections, SVGs and how to bind data, let's go 
 - Why do we say selectAll before the rectangles exist?
 - What's that colorScale thing?
 
-<br /><br />
+<br />
 --- 
 
 # Day One Challenge #
