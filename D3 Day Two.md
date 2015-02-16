@@ -4,7 +4,6 @@ Today's goal will be to learn about Transitions, Events, Margins/Axes, then how 
 
 --- 
 
-
 ### Transitions ###
 Transitions are functions within the D3 library that allow for seamless transitions between changes in your D3. They're a great way to add more interaction to your visualization. 
 
@@ -105,10 +104,16 @@ d3.select("svg").selectAll("circle")
 - delay() // add a delay 
 - duration() // say how long you want it to be
 <br />
-<br />
-<br />
-<br />
 For more transition parameters, [check out the API](https://github.com/mbostock/d3/wiki/API-Reference#d3-core).
+<br />
+---
+### Events ### 
+Because D3 is a Javascript framework, we can use the different [Javascript Events](http://www.w3schools.com/js/js_events.asp) to add interaction to our visualization.
+
+Javascript Events are things that either user or the browser to does that affects HTML elements. Some common events are "onclick" or "onmouseover"
+<br />
+
+
 
 
 
@@ -116,15 +121,6 @@ For more transition parameters, [check out the API](https://github.com/mbostock/
 
 
 ---
-
-
-Events
-- making things happen
-- 
-
----
-
-
 The Inverted Coordinate Plane
 - *Note the difficulty in bar graphs because of the inverted shapes
 
@@ -146,3 +142,6 @@ Pulling in Data from Files
 
 Bostock Example 
 - http://bl.ocks.org/mbostock/3887118
+
+
+
