@@ -82,13 +82,12 @@
 - What should you look out for?
 - Bad chart examples 
 
-
-## Building Your Own Bl.ocks.org ##
-- Got git?
-- Gitsup
-- make folder for each viz
-- has html, data and thumbnail.png (must be right size)
-- Editing the titles
+<!--## Building Your Own Bl.ocks.org ##-->
+<!--- Got git?-->
+<!--- Gitsup-->
+<!--- make folder for each viz-->
+<!--- has html, data and thumbnail.png (must be right size)-->
+<!--- Editing the titles-->
 
 # Resources #
 
