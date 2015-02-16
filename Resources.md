@@ -144,27 +144,32 @@
 - http://bl.ocks.org/mbostock/9490313
 - http://bl.ocks.org/mbostock/3883195
 - http://bl.ocks.org/mbostock/3885211
+- http://bl.ocks.org/mbostock/3884914
 
 ### Bar Charts ###
-- http://bl.ocks.org/mbostock/4062085
-- http://bl.ocks.org/Caged/6476579
+- [Basic Bar Chart](http://bl.ocks.org/mbostock/3885304)
+- [Interactive Bar Chart](http://bl.ocks.org/mbostock/4062085)
+- [Histogram](http://bl.ocks.org/mbostock/3048450)
+- [Diverging Stacked Bar](http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463)
+- [Waterfall](http://bl.ocks.org/chucklam/f3c7b3e3709a0afd5d57)
+- [Sortable Bar Charts](http://bl.ocks.org/mbostock/3885705)
 
 ### Scatterplot ###
 - http://bl.ocks.org/mbostock/3887118
 - http://bl.ocks.org/mbostock/4063663
 
 ### Venn Diagrams ###
-- http://bl.ocks.org/mbostock/1067616
+- [Basic Venn Diagram](http://bl.ocks.org/mbostock/1067616)
 
 ### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
 
 ### Tables ###
 - http://bost.ocks.org/mike/miserables/
+- [Sortable Tables with Bars](http://bl.ocks.org/mbostock/3719724)
 
 ### Trees###
 - http://bl.ocks.org/mbostock/2966094
-
 
 ### Geomerty###
 - http://bl.ocks.org/mbostock/3846051
