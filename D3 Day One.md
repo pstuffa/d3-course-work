@@ -46,7 +46,7 @@ The goal for this lesson will be for you to understand how goal.html works. Let'
 **Remember D3 is a Javascript framework, so there are all these functions specific to D3**
 
 *For the full list of functions and uses, go [here](https://github.com/mbostock/d3/wiki/API-Reference)* 
-<br /><br />
+<br />
 ---
 
 ### Selections ###
@@ -57,8 +57,7 @@ There are two key functions for selections in D3:
 - selectAll() - grabs all matching elements
 
 ![DOM Tree Example](http://cdn0.mos.techradar.futurecdn.net/Review%20images/Linux%20Format/Issue%20118/DOM%20tree%20inline2-420-90.jpg "DOM Tree Example")
-
-<br /><br />
+<br />
 D3 selections are based on CSS selectors, so you can use any of the following to select your d3 elements:
 ```
 #grabthis       ==   <anything id="grabthis">
