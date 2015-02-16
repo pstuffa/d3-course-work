@@ -92,20 +92,19 @@
 # Resources #
 
 ### D3 Basics  ###
-- https://github.com/mbostock/d3/wiki/Gallery
-- https://github.com/mbostock/d3/wiki/API-Reference
-- http://bl.ocks.org/mbostock
-- http://bost.ocks.org/mike/block/
-- http://bost.ocks.org/mike/
-- http://www.jasondavies.com/
+- [D3 Example Library](https://github.com/mbostock/d3/wiki/Gallery)
+- [D3 API Reference](https://github.com/mbostock/d3/wiki/API-Reference)
+- [Mike Bostock's Website](http://bl.ocks.org/mbostock)
+- [Mike Bostock's Blocks](http://bost.ocks.org/mike/)
+- [Jason Davies](http://www.jasondavies.com/)
 
 ### Additional D3 Tutorials ###
-- http://d3js.org/
+- [D3 Site](http://d3js.org/)
 - [How to Make Your Own Block](http://bost.ocks.org/mike/block/)
-- http://bost.ocks.org/mike/circles/
-- http://bost.ocks.org/mike/join/
-- http://bost.ocks.org/mike/d3/workshop/#0
-- https://www.dashingd3js.com/
+- [Making SVG Circles Tutorial](http://bost.ocks.org/mike/circles/)
+- [Thinking of Data Bining like Joins](http://bost.ocks.org/mike/join/)
+- [Bostock Deck on D3](http://bost.ocks.org/mike/d3/workshop/#0)
+- [Dashing D3 Tutorials](https://www.dashingd3js.com/)
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
 - http://christopheviau.com/d3_tutorial/
