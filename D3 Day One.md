@@ -71,7 +71,7 @@ grab this       ==   <grab><this></grab>
 
 ---
 
-Let's go back to our basic.html example and try to do the following:
+Let's go back to our index.html example and try to do the following:
 ```
 Grab the first p tag
 Grab the third p tag
