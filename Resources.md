@@ -169,7 +169,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 ### Tables ###
 - http://bost.ocks.org/mike/miserables/
 
-### Geomerty ### 
+### Geomerty###
 - http://bl.ocks.org/mbostock/3846051
 - http://bl.ocks.org/mbostock/4237768
 - http://bl.ocks.org/mbostock/4248145
@@ -177,7 +177,7 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bl.ocks.org/mbostock/7833311
 
 
-### Random Cool Stuff ### 
+### Random Cool Stuff###
 - http://setosa.io/blog/2014/08/03/csv-fingerprints/
 
 
