@@ -131,7 +131,7 @@ What's going on here?
 1. We defined the event function.
 2. We specified where and when it should occur.
 
-What's the mistake?
+What's the mistake here?
 
 <br />
 How could we add this to our circles?
