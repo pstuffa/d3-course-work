@@ -234,17 +234,27 @@ For this, we'll be going through [Bostock's Margin](http://bl.ocks.org/mbostock/
 
 Open up the axes.html file, and let's walk through each part. 
 
-*Learn through removing*
+*Learn through removing things.*
 
-
-
+<br />
 ---
-Pulling in Data from Files
+### Data from Files ###
 - Go over the data function
+- 
 
 
-Bostock Example 
+<br />
+---
+### Bostock Example ###
 - http://bl.ocks.org/mbostock/3887118
+
+
+## Day Two Challenge ## 
+
+
+
+
+
 
 
 
