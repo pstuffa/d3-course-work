@@ -115,13 +115,114 @@ Because D3 is a Javascript framework, we can use the different [Javascript Event
 
 Javascript Events are things that either user or the browser to does that affects HTML elements. Some common events are "onclick" or "onmouseover"
 <br />
+Let's go back to index.html and add this:
 
+```javascript
+function somethingCool() {
+    d3.select(this)
+      .style("color", "red");
+  }
 
+d3.select("p")
+.on("mouseover",somethingCool)
+```
+What's going on here?
+<br />
+1. We defined the event function.
+2. We specified where and when it should occur.
 
+What's the mistake?
 
+<br />
+How could we add this to our circles?
 
+```javascript
+function somethingCool() {
+    d3.select(this)
+      .style("fill", "red");
+  }
 
-chained transitions
+d3.selectAll("circle")
+.on("mouseover",somethingCool)
+```
+That select(this) is important, as it says that we're doing it to just this matched element not all of them, even though we allowed any to be selected with the selectAll().
+<br />
+You can add transitions to this to make even cooler events 
+
+```javascript
+function somethingCool() {
+    d3.select(this)
+    .transition()
+    .duration(5000)
+    .ease("elastic")
+    .delay(100)
+      .style("fill", "black")
+      .style("stroke-width","0em");
+      
+  }
+
+d3.selectAll("circle")
+.on("mouseover",somethingCool)
+
+```
+<br />
+We didn't cover this with transitions before, but you can chain transitions, which are fun to do with events:
+
+```javascript
+function somethingCool() {
+    d3.select(this)
+    .transition()
+    .duration(2000)
+    .ease("elastic")
+    .delay(100)
+      .style("fill", "black")
+      .style("stroke-width","0em")
+    .transition()
+    .duration(2000)
+    .ease("elastic")
+    .style("fill", function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+                        else if( d == '40' ) { return "orange"; }
+         })
+    .style("fill-opacity", .7)
+    .style("stroke-width",".2em")
+    .style("stroke",function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+                        else if( d == '40' ) { return "orange"; }
+        });
+      
+  }
+
+d3.selectAll("circle")
+.on("mouseover",somethingCool)
+```
+<br />
+Here's another one for fun:
+
+```javascript
+function somethingCool() {
+    d3.select(this)
+    .transition()
+    .duration(2000)
+    .ease("elastic")
+    .delay(100)
+    .attr("r", function(d) { return d*.25; })
+    .attr("cx", function(d,i) { return Math.random()*100; } )
+    .attr("cy", function(d,i) { return Math.random()*100; } )
+    .transition()
+    .duration(2000)
+    .ease("elastic")
+    .attr("r", function(d) { return d*2; })
+    .attr("cx", function(d,i) { return (i + 1) *100; } )
+    .attr("cy", function(d,i) { return (i + 1) *100; } );
+  }
+
+d3.selectAll("circle")
+.on("mouseover",somethingCool)
+```
+
 
 
 
