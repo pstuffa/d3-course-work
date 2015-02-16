@@ -118,8 +118,7 @@ Inside that SVG is where you place your objects, which must be SVG objects. Here
 </svg>
 ```
 Add this code to your basic.html, and reload the page.
-
-<br /><br />
+<br />
 Now, with your knowledge of select(), try the following:
 ```
 Make the circle green
@@ -140,8 +139,7 @@ Make the circle disappear!
 - Update : used to update existing objects with bounded data 
 - Exit : used to update existing objects and remove objects when there is no element to match to data
 *If you wanted to remove all objects, you use the .remove() function*
-
-<br /><br />
+<br />
 Let's go back to basic.html, and try binding data to our cicle using these methods.
 
 ```javascript
@@ -166,7 +164,7 @@ d3.select("svg").selectAll("circle")
 .enter().append("circle");
 ```
 - Where are the circles?
-<br /><br />
+<br /> 
 ```javascript
 d3.select("svg")
 .selectAll("circle")
@@ -203,7 +201,7 @@ d3.select("svg").selectAll("circle")
 .exit().remove();
 ```
 What happened? Is that right?
-<br /><br />
+<br /> 
 In D3, write need to say what you want. We updated the data, removed the circle, now we need to set the attributes of those circles based on the new data.
 
 Simply re-enter
