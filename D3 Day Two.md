@@ -9,8 +9,6 @@ Today's goal will be to learn about Transitions, Events, Margins/Axes, then how 
 Transitions are functions within the D3 library that allow for seamless transitions between changes in your D3. They're a great way to add more interaction to your visualization. 
 
 Let's go back to index.html, and try adding some transitions while we make changes
-
-Let's run the first version
 ```javascript
 var dataset = [10,20,30,40];
 
@@ -102,11 +100,11 @@ d3.select("svg").selectAll("circle")
                         else if( d == '40' ) { return "orange"; }
     });
 ```
-(most of these are intuitive)
+
 - ease() // applies various time value ranges
 - delay() // add a delay 
 - duration() // say how long you want it to be
-
+<br />
 For more transition parameters, [check out the API](https://github.com/mbostock/d3/wiki/API-Reference#d3-core).
 
 
