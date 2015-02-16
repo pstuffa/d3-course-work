@@ -284,3 +284,5 @@ Now that we got a good sense of selections, SVGs and how to bind data, let's go 
 *Extra Credit*
 Make the triforce from Zelda
 
+**Super Extra Credit**
+Scape all the data from this [visualization](http://bl.ocks.org/mbostock/raw/3887118/), using javascript. Then use it in this [visualization](http://bl.ocks.org/mbostock/3244058).
