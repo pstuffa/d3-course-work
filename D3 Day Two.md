@@ -6,13 +6,12 @@ Today's goal will be to learn about Transitions, Events, Margins/Axes, then how 
 
 
 ### Transitions ###
-Transitions are functions within the D3 library that allow for seamless transitions between changes in your D3. They're a great way to add more interaction to your visualization. (Transitions are often called in D3 ["tweening"](http://bl.ocks.org/mbostock/1020902))
+Transitions are functions within the D3 library that allow for seamless transitions between changes in your D3. They're a great way to add more interaction to your visualization. 
 
 Let's go back to index.html, and try adding some transitions while we make changes
 
 Let's run the first version
 ```javascript
-
 var dataset = [10,20,30,40];
 
 var svg = d3.select("body").append("svg")
@@ -41,7 +40,6 @@ circles.data(dataset)
 ```
 
 Now let's add a trasitions to the update:
-
 ```javascript
 var dataset = [10,20,30,40];
 
@@ -72,16 +70,22 @@ circles.data(dataset)
     });
 ```
 
-See what happened?
+See what happened? 
+
+Let's play with some of the transition parameters to change our transitions:
+- ease()
+- delay()
+- duration()
 
 ```javascript
-
-var newdata = [22,10,30,4];
+var newdata = [30,10,20,40];
 
 d3.select("svg").selectAll("circle")
 .data(newdata)
 .transition()
 .duration(2000)
+.ease("elastic")
+.delay(200)
 .attr("r", function(d) { return d*2; })
 .attr("cx", function(d,i) { return (i + 1) *100; } )
 .attr("cy", function(d,i) { return (i + 1) *100; } )
@@ -97,10 +101,7 @@ d3.select("svg").selectAll("circle")
                         else if( d == '30' ) { return "green"; }
                         else if( d == '40' ) { return "orange"; }
     });
-
-
 ```
-
 
 
 
