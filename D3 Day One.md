@@ -225,7 +225,8 @@ d3.select("svg")
 
 That's the enter, update, and exit approach to binding data in D3.
 <br />
----
+
+
 ## Review ##
 
 Now that we got a good sense of selections, SVGs and how to bind data, let's go back to our first visualization and answer a few questions:
@@ -267,7 +268,7 @@ Now that we got a good sense of selections, SVGs and how to bind data, let's go 
 - What's that colorScale thing?
 
 <br />
---- 
+
 
 # Day One Challenge #
 
