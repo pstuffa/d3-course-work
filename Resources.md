@@ -105,6 +105,7 @@
 - [Thinking of Data Bining like Joins](http://bost.ocks.org/mike/join/)
 - [Bostock Deck on D3](http://bost.ocks.org/mike/d3/workshop/#0)
 - [Dashing D3 Tutorials](https://www.dashingd3js.com/)
+- [O'Reilly](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
 - http://alignedleft.com/tutorials/d3
 - http://christopheviau.com/d3_tutorial/
