@@ -222,28 +222,22 @@ function somethingCool() {
 d3.selectAll("circle")
 .on("mouseover",somethingCool)
 ```
-
-
-
-
----
-The Inverted Coordinate Plane
-- *Note the difficulty in bar graphs because of the inverted shapes
-
-
-
+<br />
 ---
 
-Axes 
-- Lines
-- Transform functions 
+### Margins, Axes, and Transform() ###
+
+For this, we'll be going through [Bostock's Margin](http://bl.ocks.org/mbostock/3019563) example. This is a great example to show:
+- why we use margins
+- what <g> tags are used for
+- how to make axes
+
 
 
 
 ---
 Pulling in Data from Files
 - Go over the data function
-
 
 
 Bostock Example 
