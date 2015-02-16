@@ -19,12 +19,10 @@ var svg = d3.select("body").append("svg")
 .attr("width",700)
 .attr("height", 700);
 
-var circles = d3.select("svg").selectAll("circle");
+var circles = svg.selectAll("circle");
 
 circles.data(dataset)
 .enter().append("circle")
-.transition()
-.duration(500)
 .attr("r", function(d) { return d*2; })
 .attr("cx", function(d,i) { return (i + 1) *100; } )
 .attr("cy", function(d,i) { return (i + 1) *100; } )
@@ -45,12 +43,18 @@ circles.data(dataset)
 Now let's add a trasitions to the update:
 
 ```javascript
+var dataset = [10,20,30,40];
 
-var dataset = [20,30,10,40];
+var svg = d3.select("body").append("svg")
+.attr("width",700)
+.attr("height", 700);
+
+var circles = svg.selectAll("circle");
 
 circles.data(dataset)
+.enter().append("circle")
 .transition()
-.duration(500)
+.duration(2000)
 .attr("r", function(d) { return d*2; })
 .attr("cx", function(d,i) { return (i + 1) *100; } )
 .attr("cy", function(d,i) { return (i + 1) *100; } )
@@ -65,11 +69,37 @@ circles.data(dataset)
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
                         else if( d == '40' ) { return "orange"; }
-    }); 
+    });
 ```
 
 See what happened?
 
+```javascript
+
+var newdata = [22,10,30,4];
+
+d3.select("svg").selectAll("circle")
+.data(newdata)
+.transition()
+.duration(2000)
+.attr("r", function(d) { return d*2; })
+.attr("cx", function(d,i) { return (i + 1) *100; } )
+.attr("cy", function(d,i) { return (i + 1) *100; } )
+.attr("fill", function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+                        else if( d == '40' ) { return "orange"; }
+    })
+.style("fill-opacity", .7)
+.style("stroke-width",".2em")
+.style("stroke",function(d) { if( d == '10' ) { return "red"; } 
+                        else if( d == '20' ) { return "blue"; }
+                        else if( d == '30' ) { return "green"; }
+                        else if( d == '40' ) { return "orange"; }
+    });
+
+
+```
 
 
 
