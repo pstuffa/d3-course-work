@@ -185,6 +185,7 @@ d3.select("svg")
 - What's cx and cy?
 - What's r?
 <br />
+
 ---
 
 Ok, so now we know how to update and enter new data. Let's go over exit()
