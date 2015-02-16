@@ -128,8 +128,8 @@ d3.select("p")
 ```
 What's going on here?
 <br />
-1. We defined the event function.
-2. We specified where and when it should occur.
+- We defined the event function.
+- We specified where and when it should occur.
 
 What's the mistake here?
 
