@@ -84,7 +84,6 @@
 
 
 ## Building Your Own Bl.ocks.org ##
-- Walkthrough of http://bost.ocks.org/mike/block/
 - Got git?
 - Gitsup
 - make folder for each viz
@@ -115,6 +114,7 @@
 
 ### Additional D3 Tutorials ###
 - http://d3js.org/
+- [How to Make Your Own Block](http://bost.ocks.org/mike/block/)
 - http://bost.ocks.org/mike/circles/
 - http://bost.ocks.org/mike/join/
 - http://bl.ocks.org/mbostock/1166403
