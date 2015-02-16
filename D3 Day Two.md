@@ -39,7 +39,7 @@ circles.data(dataset)
     }); 
 ```
 
-Now let's add a trasitions to the update:
+Now let's add a trasition to the update:
 ```javascript
 var dataset = [10,20,30,40];
 
@@ -102,8 +102,12 @@ d3.select("svg").selectAll("circle")
                         else if( d == '40' ) { return "orange"; }
     });
 ```
+(most of these are intuitive)
+- ease() // applies various time value ranges
+- delay() // add a delay 
+- duration() // say how long you want it to be
 
-
+For more transition parameters, [check out the API](https://github.com/mbostock/d3/wiki/API-Reference#d3-core).
 
 
 
