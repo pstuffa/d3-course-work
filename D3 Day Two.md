@@ -232,7 +232,7 @@ For this, we'll be going through [Bostock's Margin](http://bl.ocks.org/mbostock/
 - what <g> tags are used for
 - how to make axes
 
-
+Open up the axes.html file, and let's walk through each part.
 
 
 ---
