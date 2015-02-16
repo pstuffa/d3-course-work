@@ -106,8 +106,11 @@ d3.select("svg").selectAll("circle")
 <br />
 For more transition parameters, [check out the API](https://github.com/mbostock/d3/wiki/API-Reference#d3-core).
 <br />
+
 ---
-### Events ### 
+
+###Events###
+
 Because D3 is a Javascript framework, we can use the different [Javascript Events](http://www.w3schools.com/js/js_events.asp) to add interaction to our visualization.
 
 Javascript Events are things that either user or the browser to does that affects HTML elements. Some common events are "onclick" or "onmouseover"
@@ -117,6 +120,8 @@ Javascript Events are things that either user or the browser to does that affect
 
 
 
+
+chained transitions
 
 
 
