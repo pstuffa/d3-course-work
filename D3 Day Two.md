@@ -105,6 +105,9 @@ d3.select("svg").selectAll("circle")
 - delay() // add a delay 
 - duration() // say how long you want it to be
 <br />
+<br />
+<br />
+<br />
 For more transition parameters, [check out the API](https://github.com/mbostock/d3/wiki/API-Reference#d3-core).
 
 
