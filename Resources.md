@@ -75,12 +75,12 @@
 <!--- Pick three or four examples they can choose from-->
 <!--- Have each use a new data set to change the chart-->
 
-## Data Visualization Beyond D3 ##
-- If there is time, let's go through some Tufte
-- What's good design?
-- What's bad design?
-- What should you look out for?
-- Bad chart examples 
+<!--## Data Visualization Beyond D3 ##-->
+<!--- If there is time, let's go through some Tufte-->
+<!--- What's good design?-->
+<!--- What's bad design?-->
+<!--- What should you look out for?-->
+<!--- Bad chart examples -->
 
 <!--## Building Your Own Bl.ocks.org ##-->
 <!--- Got git?-->
@@ -129,14 +129,11 @@
 - http://imagequilts.com/
 
 
-# d3 Examples #
+# D3 Examples #
 
-Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
+[Bostocks's Show Reel](http://bl.ocks.org/mbostock/1256572)
 
-### Clocks ###
-- http://bl.ocks.org/mbostock/10685278
-- http://bl.ocks.org/clayzermk1/9142407
-- http://bl.ocks.org/mbostock/1096355
+
 
 ### Line Charts ###
 - http://bl.ocks.org/mbostock/3970883
@@ -152,8 +149,9 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bl.ocks.org/mbostock/4062085
 - http://bl.ocks.org/Caged/6476579
 
-### Trees ###
-- http://bl.ocks.org/mbostock/2966094
+### Scatterplot ###
+- http://bl.ocks.org/mbostock/3887118
+- http://bl.ocks.org/mbostock/4063663
 
 ### Venn Diagrams ###
 - http://bl.ocks.org/mbostock/1067616
@@ -161,13 +159,12 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 ### Timelines ###
 - http://bl.ocks.org/biovisualize/5609750
 
-### Scatterplot ###
-- http://bl.ocks.org/mbostock/3887118
-- http://bl.ocks.org/mbostock/4063663
-
 ### Tables ###
 - http://bost.ocks.org/mike/miserables/
 
+### Trees ###
+- http://bl.ocks.org/mbostock/2966094
+- 
 ### Geomerty###
 - http://bl.ocks.org/mbostock/3846051
 - http://bl.ocks.org/mbostock/4237768
@@ -175,6 +172,10 @@ Bostocks's Show Reel http://bl.ocks.org/mbostock/1256572
 - http://bl.ocks.org/mbostock/4248146
 - http://bl.ocks.org/mbostock/7833311
 
+### Clocks ###
+- http://bl.ocks.org/mbostock/10685278
+- http://bl.ocks.org/clayzermk1/9142407
+- http://bl.ocks.org/mbostock/1096355
 
 ### Random Cool Stuff###
 - http://setosa.io/blog/2014/08/03/csv-fingerprints/
