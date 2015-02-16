@@ -228,11 +228,14 @@ d3.selectAll("circle")
 ### Margins, Axes, and Transform() ###
 
 For this, we'll be going through [Bostock's Margin](http://bl.ocks.org/mbostock/3019563) example. This is a great example to show:
-- why we use margins
-- what <g> tags are used for
-- how to make axes
+- Why we use margins
+- What <g> tags are used for
+- How to make axes
 
-Open up the axes.html file, and let's walk through each part.
+Open up the axes.html file, and let's walk through each part. 
+
+*Learn through removing*
+
 
 
 ---
