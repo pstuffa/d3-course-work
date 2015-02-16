@@ -11,7 +11,7 @@ Transitions
 - making things happen smoothly
 
 
-Let's go back to basic.html, and try binding data to our cicle using these methods.
+Let's go back to index.html, and try binding data to our cicle using these methods.
 
 ```javascript
 // Define your data 
