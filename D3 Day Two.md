@@ -26,8 +26,8 @@ circles.data(dataset)
 .transition()
 .duration(500)
 .attr("r", function(d) { return d*2; })
-.attr("cx", function(d,i) { return d*10; } )
-.attr("cy", function(d,i) { return d*10; } )
+.attr("cx", function(d,i) { return (i + 1) *100; } )
+.attr("cy", function(d,i) { return (i + 1) *100; } )
 .attr("fill", function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
@@ -52,8 +52,8 @@ circles.data(dataset)
 .transition()
 .duration(500)
 .attr("r", function(d) { return d*2; })
-.attr("cx", function(d,i) { return d*10; } )
-.attr("cy", function(d,i) { return d*10; } )
+.attr("cx", function(d,i) { return (i + 1) *100; } )
+.attr("cy", function(d,i) { return (i + 1) *100; } )
 .attr("fill", function(d) { if( d == '10' ) { return "red"; } 
                         else if( d == '20' ) { return "blue"; }
                         else if( d == '30' ) { return "green"; }
