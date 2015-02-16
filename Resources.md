@@ -1,79 +1,79 @@
-# Intro to D3 #
+<!--# Intro to D3 #-->
 
-## Lesson's Goals ##
-(Guided in Powerpoint)
-- Overview of D3
-- Review Javascript
-- D3 Fundamentals
-- D3 Challenge
+<!--## Lesson's Goals ##-->
+<!--(Guided in Powerpoint)-->
+<!--- Overview of D3-->
+<!--- Review Javascript-->
+<!--- D3 Fundamentals-->
+<!--- D3 Challenge-->
 
-## Overview of D3 ##
-(Guided in Powerpoint)
-- Review what D3 is
-- Where did it come from
-- Why it's so great - vectors vs svg
+<!--## Overview of D3 ##-->
+<!--(Guided in Powerpoint)-->
+<!--- Review what D3 is-->
+<!--- Where did it come from-->
+<!--- Why it's so great - vectors vs svg-->
 
-## Getting Started in D3 ##
-- What HTML is
-- What CSS is
-- What Javascript is
-(Move to Javascript Console)
-- Javascript console
-- Basic syntax
-- Functions (named vs unnamed)
-- Review mapping functions 
-- Data in javascript
-- Working within HTML and CSS
-- Go through how data is embedded in DOM elements
+<!--## Getting Started in D3 ##-->
+<!--- What HTML is-->
+<!--- What CSS is-->
+<!--- What Javascript is-->
+<!--(Move to Javascript Console)-->
+<!--- Javascript console-->
+<!--- Basic syntax-->
+<!--- Functions (named vs unnamed)-->
+<!--- Review mapping functions -->
+<!--- Data in javascript-->
+<!--- Working within HTML and CSS-->
+<!--- Go through how data is embedded in DOM elements-->
 
-## Building in D3 ##
+<!--## Building in D3 ##-->
 
-### Part I ###
-- The DOM tree
-- Selections, enter, exit and append 
-- Setting up a python server and using Sublime Text Editor side by side 
+<!--### Part I ###-->
+<!--- The DOM tree-->
+<!--- Selections, enter, exit and append -->
+<!--- Setting up a python server and using Sublime Text Editor side by side -->
 
-### Part II ###
-- Make some paragraphs
-- Make some text
-- Make the text color change 
-- Use data to create the size
-- Use data to create the color
-- Use data to fill in the text
+<!--### Part II ###-->
+<!--- Make some paragraphs-->
+<!--- Make some text-->
+<!--- Make the text color change -->
+<!--- Use data to create the size-->
+<!--- Use data to create the color-->
+<!--- Use data to fill in the text-->
 
-### Part III ###
-- Make an SVG
-- Change color of SVG
-- Change size of SVG
+<!--### Part III ###-->
+<!--- Make an SVG-->
+<!--- Change color of SVG-->
+<!--- Change size of SVG-->
 
-### Part IV ###
-- Make a circle
-- Make a few cricles
-- Control the X and Y coordinates
-- Control the radius 
+<!--### Part IV ###-->
+<!--- Make a circle-->
+<!--- Make a few cricles-->
+<!--- Control the X and Y coordinates-->
+<!--- Control the radius -->
 
-### Part V ###
-- Make Rects
-- Control the height and width
-- Control the colorscale 
+<!--### Part V ###-->
+<!--- Make Rects-->
+<!--- Control the height and width-->
+<!--- Control the colorscale -->
 
-### Part VI ###
-- Transitions & Events 
-- Make them change colors
-- Make them get bigger and smaller
-- Make them change into circles 
+<!--### Part VI ###-->
+<!--- Transitions & Events -->
+<!--- Make them change colors-->
+<!--- Make them get bigger and smaller-->
+<!--- Make them change into circles -->
 
-### Part VII ###
-- Making charts
-- Axes
-- Transform function 
-- Scales
-- Ticks
-- Labels
+<!--### Part VII ###-->
+<!--- Making charts-->
+<!--- Axes-->
+<!--- Transform function -->
+<!--- Scales-->
+<!--- Ticks-->
+<!--- Labels-->
 
-## Challenege ##
-- Pick three or four examples they can choose from
-- Have each use a new data set to change the chart
+<!--## Challenege ##-->
+<!--- Pick three or four examples they can choose from-->
+<!--- Have each use a new data set to change the chart-->
 
 ## Data Visualization Beyond D3 ##
 - If there is time, let's go through some Tufte
