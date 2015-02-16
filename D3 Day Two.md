@@ -235,6 +235,8 @@ For this, we'll be going through [Bostock's Margin](http://bl.ocks.org/mbostock/
 Open up the axes.html file, and let's walk through each part. 
 
 *Learn through removing things.*
+*Think about the defaults.*
+
 
 <br />
 ---
