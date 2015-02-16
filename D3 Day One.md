@@ -278,8 +278,8 @@ Now that we got a good sense of selections, SVGs and how to bind data, let's go 
 4. Make an SVG with three circles and a rectangle.
 5. Make a triangle with yellow fill and a blue border.
 
-*Extra Credit*
+*Extra Credit*:
 Make the triforce from Zelda
 
-**Super Extra Credit**
+**Super Extra Credit**:
 Scape all the data from this [visualization](http://bl.ocks.org/mbostock/raw/3887118/), using javascript, then use it in this [visualization](http://bl.ocks.org/mbostock/3244058).
