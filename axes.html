@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<!-- Made by Mike Bostock -->
+<!-- Made by Mike Bostock
+http://bl.ocks.org/mbostock/3887118
+-->
 <meta charset="utf-8">
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-
 <style>
+
+/*  
+What's all this?
+*/
 
 body {
   font: 10px sans-serif;
@@ -42,6 +47,8 @@ body {
 <script src="http://d3js.org/d3.v2.min.js?2.9.5"></script>
 <script>
 
+// What's going on here?
+
 var margin = {top: 20, right: 20, bottom: 20, left: 20},
     padding = {top: 60, right: 60, bottom: 60, left: 60},
     outerWidth = 960,
@@ -51,8 +58,14 @@ var margin = {top: 20, right: 20, bottom: 20, left: 20},
     width = innerWidth - padding.left - padding.right,
     height = innerHeight - padding.top - padding.bottom;
 
+
+
 var x = d3.scale.identity()
     .domain([0, width]);
+// What's this identify function?
+
+
+// What's this domain?
 
 var y = d3.scale.identity()
     .domain([0, height]);
@@ -60,6 +73,11 @@ var y = d3.scale.identity()
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
+
+// What's the Axis() function?
+
+
+// What's this orient function?
 
 var yAxis = d3.svg.axis()
     .scale(y)
@@ -69,9 +87,14 @@ var svg = d3.select("body").append("svg")
     .attr("width", outerWidth)
     .attr("height", outerHeight)
   .append("g")
+  // What's the <g> tag?
+
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+// What's this translate function?
 
 var defs = svg.append("defs");
+// What's this for?
+
 
 defs.append("marker")
     .attr("id", "triangle-start")
@@ -95,11 +118,15 @@ defs.append("marker")
   .append("path")
     .attr("d", "M 0 0 L 10 5 L 0 10 z");
 
+
+// What's this?
 svg.append("rect")
     .attr("class", "outer")
     .attr("width", innerWidth)
     .attr("height", innerHeight);
 
+
+// What's this for?
 var g = svg.append("g")
     .attr("transform", "translate(" + padding.left + "," + padding.top + ")");
 
@@ -112,16 +139,20 @@ g.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(0," + height + ")")
     .call(xAxis);
+//What's this call function?
+
 
 g.append("g")
     .attr("class", "y axis")
     .attr("transform", "translate(" + width + ",0)")
     .call(yAxis);
 
+
+// What are all these lines?
 svg.append("line")
     .attr("class", "arrow")
     .attr("x2", padding.left)
-    .attr("y2", padding.top)
+    .attr("y2", padding.top);
     .attr("marker-end", "url(#triangle-end)");
 
 svg.append("line")
@@ -154,6 +185,7 @@ svg.append("line")
     .attr("y2", innerHeight / 2)
     .attr("marker-end", "url(#triangle-end)");
 
+// What's this stuff?
 svg.append("text")
     .text("origin")
     .attr("y", -8);
