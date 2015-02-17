@@ -153,14 +153,14 @@
 - [Sortable Bar Charts](http://bl.ocks.org/mbostock/3885705)
 
 ### Scatterplot ###
-- http://bl.ocks.org/mbostock/3887118
-- http://bl.ocks.org/mbostock/4063663
+- [Basic Scatterplot](http://bl.ocks.org/mbostock/3887118)
+- [Scatterplot Matrix](http://bl.ocks.org/mbostock/4063663)
 
 ### Venn Diagrams ###
 - [Basic Venn Diagram](http://bl.ocks.org/mbostock/1067616)
 
 ### Timelines ###
-- http://bl.ocks.org/biovisualize/5609750
+- [Cool Timeline Interpretation](http://bl.ocks.org/biovisualize/5609750)
 
 ### Tables ###
 - [Sortable Tables with Bars](http://bl.ocks.org/mbostock/3719724)
@@ -168,22 +168,22 @@
 - [Table with Cool Transitions](http://bost.ocks.org/mike/miserables/)
 
 ### Trees###
-- http://bl.ocks.org/mbostock/2966094
+- [Pedigree Tree](http://bl.ocks.org/mbostock/2966094)
 
 ### Geomerty###
-- http://bl.ocks.org/mbostock/3846051
-- http://bl.ocks.org/mbostock/4237768
-- http://bl.ocks.org/mbostock/4248145
-- http://bl.ocks.org/mbostock/4248146
-- http://bl.ocks.org/mbostock/7833311
+- [Voronoi](http://bl.ocks.org/mbostock/3846051)
+- [Voronoi Clipping](http://bl.ocks.org/mbostock/4237768)
+- [Hexagonal Binning](http://bl.ocks.org/mbostock/4248145)
+- [Hexagonal Binning (Area)](http://bl.ocks.org/mbostock/4248146)
+- [Dynamic Hexabin](http://bl.ocks.org/mbostock/7833311)
 
 ### Clocks ###
-- http://bl.ocks.org/mbostock/10685278
-- http://bl.ocks.org/clayzermk1/9142407
-- http://bl.ocks.org/mbostock/1096355
+- [Digital Clock](http://bl.ocks.org/mbostock/10685278)
+- [Spacetime](http://bl.ocks.org/clayzermk1/9142407)
+- [Polar Clock](http://bl.ocks.org/mbostock/1096355)
 
 ### Random Cool Stuff###
-- http://setosa.io/blog/2014/08/03/csv-fingerprints/
+- [CSV Fingerprints](http://setosa.io/blog/2014/08/03/csv-fingerprints/)
 
 
 
