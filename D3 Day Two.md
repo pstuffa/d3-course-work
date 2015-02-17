@@ -235,20 +235,16 @@ For this, we'll be going through [Bostock's Margin](http://bl.ocks.org/mbostock/
 Open up the axes.html file, and let's walk through each part. 
 
 *Learn through removing things.*
+
 *Think about the defaults.*
 
 
-<br />
----
-### Data from Files###
-
-
-
-
-<br />
 ---
 ### Bostock Example###
-- http://bl.ocks.org/mbostock/3887118
+
+We're now going to go through a Bostock example for a scatterplot visualization to see how all the pieces fit together. We'll also go over how to pull in data from a flat file.
+
+Get the files [here](http://bl.ocks.org/mbostock/3887118).
 
 
 ## Day Two Challenge##
