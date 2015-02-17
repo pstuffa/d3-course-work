@@ -131,11 +131,13 @@
 [Bostocks's Show Reel](http://bl.ocks.org/mbostock/1256572)
 
 ### Line Charts ###
+- [Basic Line Chart](http://bl.ocks.org/mbostock/3883245)
 - [Line with Threshold Encoding](http://bl.ocks.org/mbostock/3970883)
 - [Line with Gradient Encoding](http://bl.ocks.org/mbostock/3969722)
 - [Difference Chart](http://bl.ocks.org/mbostock/3894205)
 - [Multi-Series Line Charts](http://bl.ocks.org/mbostock/3884955)
 - [It's a Table with a Line!](http://bl.ocks.org/llimllib/841dd138e429bb0545df)
+- [Slopechart](http://skedasis.com/d3/slopegraph/)
 
 ### Area Charts ###
 - [Basic Area Chart](http://bl.ocks.org/mbostock/3883195)
