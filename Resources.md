@@ -106,15 +106,13 @@
 - [Bostock Deck on D3](http://bost.ocks.org/mike/d3/workshop/#0)
 - [Dashing D3 Tutorials](https://www.dashingd3js.com/)
 - [O'Reilly](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-- http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/
-- http://alignedleft.com/tutorials/d3
-- http://christopheviau.com/d3_tutorial/
-- http://scottcheng.github.io/d3js-101/#/title
+- [Aligned Left D3 Tutorials](http://alignedleft.com/tutorials/d3)
+- [Manipulating Data in D3](http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/)
+- [D3 MIXTAPES](http://enjalot.github.io/dot-enter/)
 
 ### D3 Playgrounds ###
-- http://tributary.io/
-- http://enjalot.github.io/dot-enter/
-- http://jsfiddle.net/
+- [Tributary](http://tributary.io/)
+- [JS Fiddle](http://jsfiddle.net/)
 
 ### D3 Frameworks / Add-ins ###
 - http://nvd3.org/
@@ -123,9 +121,9 @@
 - http://hughsk.io/colony/
 
 ### General Data Visualization ###
-- http://www.edwardtufte.com/tufte/
-- http://imagequilts.com/
-- http://setosa.io/#/
+- [Tufte](http://www.edwardtufte.com/tufte/)
+- [Image Quiltes](http://imagequilts.com/)
+- [Setosa](http://setosa.io/#/)
 
 
 # D3 Examples #
@@ -133,18 +131,18 @@
 [Bostocks's Show Reel](http://bl.ocks.org/mbostock/1256572)
 
 ### Line Charts ###
-- http://bl.ocks.org/mbostock/3970883
-- http://bl.ocks.org/mbostock/3969722
-- http://bl.ocks.org/mbostock/3894205
-- http://bl.ocks.org/mbostock/3884955
-- http://bl.ocks.org/llimllib/841dd138e429bb0545df
+- [Line with Threshold Encoding](http://bl.ocks.org/mbostock/3970883)
+- [Line with Gradient Encoding](http://bl.ocks.org/mbostock/3969722)
+- [Difference Chart](http://bl.ocks.org/mbostock/3894205)
+- [Multi-Series Line Charts](http://bl.ocks.org/mbostock/3884955)
+- [It's a Table with a Line!](http://bl.ocks.org/llimllib/841dd138e429bb0545df)
 
 ### Area Charts ###
-- http://bl.ocks.org/mbostock/1166403
-- http://bl.ocks.org/mbostock/9490313
-- http://bl.ocks.org/mbostock/3883195
-- http://bl.ocks.org/mbostock/3885211
-- http://bl.ocks.org/mbostock/3884914
+- [Basic Area Chart](http://bl.ocks.org/mbostock/3883195)
+- [Basic Area Chart with Axis Component](http://bl.ocks.org/mbostock/1166403)
+- [Multiple Small Area Charts](http://bl.ocks.org/mbostock/9490313)
+- [Stacked Area Chart](http://bl.ocks.org/mbostock/3885211)
+- [Bivariate Chart](http://bl.ocks.org/mbostock/3884914)
 
 ### Bar Charts ###
 - [Basic Bar Chart](http://bl.ocks.org/mbostock/3885304)
@@ -165,8 +163,9 @@
 - http://bl.ocks.org/biovisualize/5609750
 
 ### Tables ###
-- http://bost.ocks.org/mike/miserables/
 - [Sortable Tables with Bars](http://bl.ocks.org/mbostock/3719724)
+- [It's a Table with a Line!](http://bl.ocks.org/llimllib/841dd138e429bb0545df)
+- [Table with Cool Transitions](http://bost.ocks.org/mike/miserables/)
 
 ### Trees###
 - http://bl.ocks.org/mbostock/2966094
