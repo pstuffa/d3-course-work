@@ -240,19 +240,20 @@ Open up the axes.html file, and let's walk through each part.
 
 <br />
 ---
-### Data from Files ###
-- Go over the data function
-- 
+### Data from Files###
+
+
 
 
 <br />
 ---
-### Bostock Example ###
+### Bostock Example###
 - http://bl.ocks.org/mbostock/3887118
 
 
-## Day Two Challenge ## 
+## Day Two Challenge##
 
+Take [one](http://bl.ocks.org/mbostock/3887118) [of](http://bl.ocks.org/mbostock/3884955) [these](http://bl.ocks.org/mbostock/3885304) [Bostock](http://bl.ocks.org/mbostock/9490313) examples and use your own data to make your own visualization. 
 
 
 
