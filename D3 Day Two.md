@@ -249,7 +249,7 @@ Get the files [here](http://bl.ocks.org/mbostock/3887118).
 ---
 ### D3 Resources###
 
-Let's go through the [D3 Resource](https://github.com/pstuffa/d3werk/blob/master/Resources.md) repository I set up and what you have at your disposal.
+Let's go through the [D3 Resource](https://github.com/pstuffa/d3werk/blob/master/Resources.md) repository I set up and see what you have at your disposal.
 
 <br />
 <br />
