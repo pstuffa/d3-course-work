@@ -256,7 +256,7 @@ Let's go through the [D3 Resource](https://github.com/pstuffa/d3werk/blob/master
 
 ## Day Two Challenge##
 
-Take [one](http://bl.ocks.org/mbostock/3887118) [of](http://bl.ocks.org/mbostock/3884955) [these](http://bl.ocks.org/mbostock/3885304) [Bostock](http://bl.ocks.org/mbostock/9490313) examples and use your own data to make your own visualization. 
+Take [one](http://bl.ocks.org/mbostock/3887118) [of](http://bl.ocks.org/mbostock/3884955) [these](http://bl.ocks.org/mbostock/3885304) [Bostock](http://bl.ocks.org/mbostock/9490313) [examples](http://bl.ocks.org/mbostock/3883245) and use your own data to make your own visualization. 
 
 
 
