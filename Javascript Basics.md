@@ -8,8 +8,6 @@
 - You can use the javascript console like a calculator 
 - (Clearing the javascript console is control+l)
 - You can also pull up what you last entered, using the UP button
-
-
 - Start a HTTP server on your computer by going into terminal and into the directory with index.html
 - Type in: python -m SimpleHTTPServer
 - Then in a broswer, go to http://localhost:8000/index.html
