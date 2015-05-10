@@ -83,7 +83,7 @@ For more on how selections work, check out Mike Bostock's [awesome post about it
 
 <br />
 ---
-Now that we can select things, let's start doing things! Try out some of the following on basic.html:
+Now that we can select things, let's start doing things! Try out some of the following on index.html:
 ```javascript
 d3.select("p").style("color","red");
 d3.selectAll("p").style("font-size","20px");
@@ -116,7 +116,7 @@ Inside that SVG is where you place your objects, which must be SVG objects. Here
   <circle cx="100" cy="100" r="50" fill="red">
 </svg>
 ```
-Add this code to your basic.html, and reload the page.
+Add this code to your index.html, and reload the page.
 <br />
 Now, with your knowledge of select(), try the following:
 ```
@@ -139,7 +139,7 @@ Make the circle disappear!
 - Exit : used to update existing objects and remove objects when there is no element to match to data
 *If you wanted to remove all objects, you use the .remove() function*
 <br />
-Let's go back to basic.html, and try binding data to our cicle using these methods.
+Let's go back to index.html, and try binding data to our cicle using these methods.
 
 ```javascript
 // Define your data 
