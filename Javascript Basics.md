@@ -3,8 +3,8 @@
 ### Starting off ###
 - Using the javascript console on Google Chrome
 - Download the index.html file
-- Open javascript console control+option+i
-- Page source is control+option+u
+- Open javascript console command+option+i
+- Page source is command+option+u
 - You can use the javascript console like a calculator 
 - (Clearing the javascript console is control+l)
 - You can also pull up what you last entered, using the UP button
