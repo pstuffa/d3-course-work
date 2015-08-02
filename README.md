@@ -1,4 +1,4 @@
 d3werk
-=======
+======
 
-Various d3 projects
+now folded into https://github.com/thisismetis/dscurriculum
